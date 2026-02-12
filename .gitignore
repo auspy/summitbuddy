@@ -33,9 +33,30 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# raw scraping artifacts (large files)
+data/*-raw.json
+data/*-page*.html
+data/*-page*.json
+data/*-api-calls.json
+data/*-dom.json
+data/*-network.json
+data/*-rsc-*.txt
+data/*-array-match.txt
+data/*-js-*.txt
+data/sessions-api-all.json
+data/speakers-api-all.json
+data/agendas-api-all.json
+data/pages-api-all.json
+data/session-types-api.json
+data/api-endpoints-explored.json
+data/summit-data.json
+data/speakers-api-*.json
+
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+data/pdfs/
+data/*.html

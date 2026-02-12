@@ -1,0 +1,97 @@
+[
+  {
+    "id": "wg_1",
+    "name": "Human Capital Development",
+    "chakraNumber": 1,
+    "description": "Skills, talent, workforce development, and education in the AI era",
+    "coChairs": [],
+    "focusAreas": [
+      "AI workforce development",
+      "Skills training",
+      "Education transformation",
+      "Talent pipeline"
+    ]
+  },
+  {
+    "id": "wg_2",
+    "name": "Inclusion for Social Empowerment",
+    "chakraNumber": 2,
+    "description": "Gender equity, accessibility, underserved communities, and digital inclusion",
+    "coChairs": [],
+    "focusAreas": [
+      "Gender equity in AI",
+      "Accessibility",
+      "Underserved communities",
+      "Digital inclusion"
+    ]
+  },
+  {
+    "id": "wg_3",
+    "name": "Safe & Trusted AI",
+    "chakraNumber": 3,
+    "description": "AI safety, governance, ethics, regulation, and trust frameworks",
+    "coChairs": [],
+    "focusAreas": [
+      "AI safety",
+      "Governance frameworks",
+      "Ethics",
+      "Regulation",
+      "Trust"
+    ]
+  },
+  {
+    "id": "wg_4",
+    "name": "Resilience, Innovation & Efficiency",
+    "chakraNumber": 4,
+    "description": "Enterprise AI, productivity, manufacturing, defense, and innovation",
+    "coChairs": [],
+    "focusAreas": [
+      "Enterprise AI",
+      "Manufacturing",
+      "Defense",
+      "Productivity",
+      "Innovation"
+    ]
+  },
+  {
+    "id": "wg_5",
+    "name": "Science",
+    "chakraNumber": 5,
+    "description": "Research, foundational models, frontier AI, and academic collaboration",
+    "coChairs": [],
+    "focusAreas": [
+      "Foundational models",
+      "Frontier AI",
+      "Academic collaboration",
+      "Research"
+    ]
+  },
+  {
+    "id": "wg_6",
+    "name": "Democratizing AI Resources",
+    "chakraNumber": 6,
+    "description": "Compute access, open-source, infrastructure, GPUs, and resource sharing",
+    "coChairs": [],
+    "focusAreas": [
+      "Compute access",
+      "Open-source AI",
+      "Infrastructure",
+      "Resource sharing"
+    ]
+  },
+  {
+    "id": "wg_7",
+    "name": "AI for Economic Development & Social Good",
+    "chakraNumber": 7,
+    "description": "Healthcare, agriculture, education, energy, climate, and social impact",
+    "coChairs": [],
+    "focusAreas": [
+      "Healthcare AI",
+      "Agriculture",
+      "Education",
+      "Energy",
+      "Climate",
+      "Social impact"
+    ]
+  }
+]

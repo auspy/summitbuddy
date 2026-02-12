@@ -1,0 +1,1309 @@
+[
+  {
+    "id": "speaker_339",
+    "name": "Dr. Sara Hooker",
+    "title": "Co-Founder, Adaption Labs",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_sara_hooker_d1ec625f92.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_341",
+    "name": "Dr. Pushmeet Kohli",
+    "title": "VP of Science, Google DeepMind",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_pushmeet_kohli_f2054e96e2.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_344",
+    "name": "Prof. Alison Noble",
+    "title": "Professor of Engineering, University of Oxford",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_alison_noble_743bb61e6f.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_345",
+    "name": "Prof. Dame Wendy Hall",
+    "title": "Professor of Computer Science, University of Southampton",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/wendy_hall_1c2b19dc4e.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_347",
+    "name": "Prof. Neil Lawrence",
+    "title": "DeepMind Professor of ML, University of Cambridge",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_neil_lawrence_587499fd90.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_348",
+    "name": "Prof. Priya Donti",
+    "title": "Asst. Professor, EECS & LIDS, Massachusetts Institute of Technology",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_priya_donti_fe9dfa2e09.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_350",
+    "name": "Prof. Alice Oh",
+    "title": "Professor, Korea Advanced Institute of Science & Technology",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_alice_oh_e5a5b0c3f7.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_463",
+    "name": "Mukesh D. Ambani",
+    "title": "Chairman & Managing Director (Chairman & MD), Reliance Industries Limited",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/mukesh_ambani_cdd3d0c190.png",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_532",
+    "name": "Ajay Vij",
+    "title": "Senior Country Managing Director, Accenture India",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_ajay_vij_de1dd0e394.jpg",
+    "sessions": [
+      "session_5230"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_533",
+    "name": "Akhilesh Tuteja",
+    "title": "Head of Clients & Industries, KPMG India",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_akhilesh_tuteja_2ba37f8908.jpg",
+    "sessions": [
+      "session_5222"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_534",
+    "name": "Alexandr Wang",
+    "title": "Chief AI Officer, Meta",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_alexandr_wang_ab2b042d49.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_536",
+    "name": "Amanda Brock",
+    "title": "Chief Executive Officer (CEO), OpenUK",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_amanda_brock_107b164580.jpg",
+    "sessions": [
+      "session_5318",
+      "session_5077"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_537",
+    "name": "Aarthi Subramanian",
+    "title": "Chief Operating Officer (COO) and Executive Director, Tata Consultancy Services",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/aarthi_subramanian_fa27eb71b1.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_538",
+    "name": "Amit Zavery",
+    "title": "President, Chief Product Officer and Chief Operating Officer, Servicenow",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_amit_zavery_e544da71ae.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_539",
+    "name": "Ana Paula Assis",
+    "title": "Senior Vice President & Chair Asia Pacific and EMEA, IBM Corporation",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Ana_Paula_Assis_Senior_Vice_President_and_Chair_Asia_Pacific_and_EMEA_bc786a722d.jpeg",
+    "sessions": [
+      "session_5200"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_540",
+    "name": "Anastasia Stasenko",
+    "title": "Co-Founder & Chief Executive Officer (Co-Founder & CEO), Pleias",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_anastasia_17ffbb3acb.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_541",
+    "name": "Anna Tumadóttir",
+    "title": "Chief Executive Officer (CEO), Creative Commons",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_anna_9ff981da71.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_542",
+    "name": "Anne Neuberger",
+    "title": "Strategic Advisor, Andreessen Horowitz (a16z)",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/anne_neuberger_0da7d4324d.jpg",
+    "sessions": [
+      "session_5489",
+      "session_5392"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_543",
+    "name": "Anne Robinson",
+    "title": "Senior Vice President & Chief Legal Officer, IBM Corporation",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Anne_Robinson_Senior_Vice_President_and_Chief_Legal_Officer_ed2add9233.jpeg",
+    "sessions": [
+      "session_5064"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_544",
+    "name": "Aparna Bawa",
+    "title": "Chief Operating Officer (COO), Zoom",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/aparna_bawa_ad19fdbdf7.jpg",
+    "sessions": [
+      "session_5146",
+      "session_5079"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_545",
+    "name": "Bill Gates",
+    "title": "Chair, Gates Foundation",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_bill_gates_bc18ff16f8.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_546",
+    "name": "Børge Brende",
+    "title": "President and CEO, World Economic Forum",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_borge_brende_300d2b3145.png",
+    "sessions": [
+      "session_5086"
+    ],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_547",
+    "name": "Eric Grimson",
+    "title": "Chancellor for Academic Advancement, Massachusetts Institute of Technology",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_eric_grimson_c1737aae9a.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_548",
+    "name": "Borje Ekholm",
+    "title": "President & CEO, Ericsson Group",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_borje_ekholm_bac27c00d4.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_549",
+    "name": "Brad Smith",
+    "title": "President & Vice Chair, Microsoft",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_brad_smith_1_1b3d188ed8.jpg",
+    "sessions": [
+      "session_5146",
+      "session_5303",
+      "session_5525"
+    ],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_550",
+    "name": "Burkhard Boeckem",
+    "title": "Chief Technology Officer (CTO), Hexagon AB",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_burkhard_2734b5ce0d.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_551",
+    "name": "BVR Mohan Reddy",
+    "title": "Founder & Chairman, Cyient Ltd",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_CL_4_A2729_SQR_c14ddeb3e7.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_552",
+    "name": "C Vijayakumar",
+    "title": "Chief Executive Officer (CEO) & Managing Director, HCLTech",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_c_vijayakumar_6fa0d9aa75.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_553",
+    "name": "Carme Artigas Brugal",
+    "title": "Senior Fellow, Harvard Belfer Center & ADIALab (UAE)",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_carme_artigas_brugal_f20e5f0db0.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_555",
+    "name": "Dame Melanie Dawes",
+    "title": "Chief Executive, Ofcom",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_melanie_dawes_fde9e3f616.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_556",
+    "name": "Dario Amodei",
+    "title": "Chief Executive Officer (CEO), Anthropic",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_dario_amodei_7bfe431ebb.jpg",
+    "sessions": [
+      "session_5234"
+    ],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_557",
+    "name": "David Zapolsky",
+    "title": "Chief Global Affairs and Legal Officer, Amazon",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_david_zapolsky_49142663b2.jpg",
+    "sessions": [
+      "session_5095",
+      "session_5079"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_559",
+    "name": "Erik Ekudden",
+    "title": "Chief Technology Officer (CTO), Ericsson",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/erik_ekudden_9324f7808f.jpg",
+    "sessions": [
+      "session_5377"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_560",
+    "name": "Giordano (Gio) Albertazzi",
+    "title": "Chief Executive Officer (CEO), VERTIV",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_giordano_gio_albertazzi_6909ae33a3.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_561",
+    "name": "Harita Gupta",
+    "title": "Head of Global Experience, Sutherland Global",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_harita_gupta_f5d98316e5.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_562",
+    "name": "Harshil Mathur",
+    "title": "CEO and Co-Founder, Razorpay",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_harshil_mathur_22666a5fc8.jpg",
+    "sessions": [
+      "session_5223"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_563",
+    "name": "Ibrahim Hafeezur Rehman",
+    "title": "Officiating Director-General, NAMTECH",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_ibrahim_hafeezur_rehman_1245dda06c.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_564",
+    "name": "Ivana Bartoletti",
+    "title": "Vice President, Wipro",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_ivana_bartoletti_b689b027b7.jpg",
+    "sessions": [
+      "session_5255",
+      "session_5394"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_565",
+    "name": "J. Trevor Hughes",
+    "title": "President & CEO, IAPP",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/trevor_hughes_6152344f8f.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_566",
+    "name": "James Manyika",
+    "title": "President, Research, Labs, Technology & Society, Google and Alphabet",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_james_manyika_24912e4c7e.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_567",
+    "name": "Jason Oxman",
+    "title": "President and CEO, Information Technology Industry Council (ITI)",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_jason_oxman_5cbf046e89.jpg",
+    "sessions": [
+      "session_5195",
+      "session_5080",
+      "session_5079"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_568",
+    "name": "Jay Chaudhry",
+    "title": "Chief Executive Officer (CEO), Chairman, and Founder, Zscaler",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_jay_chaudhry_c96dffc9c7.jpg",
+    "sessions": [
+      "session_5079",
+      "session_5377"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_569",
+    "name": "Jeetu Patel",
+    "title": "President & Chief Product Officer, Cisco",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Jeetu_Patel_Hires_2_56d23f6e79.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_570",
+    "name": "Jeff (Jeffrey) Shapiro",
+    "title": "Chief Executive Officer (CEO), Scanline VFX",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/jeff_shapiro_ac24ef86fe.png",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_571",
+    "name": "Jensen Huang",
+    "title": "Founder & CEO, NVIDIA",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_ai_impact_summit_in_26_jhh_imagery_4787500_6f8a3384de.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_572",
+    "name": "Jorge Solis",
+    "title": "CEO, Soufflet Malt",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_jorge_solis_cc79a26894.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_573",
+    "name": "Julie Sweet",
+    "title": "Chair & CEO, Accenture",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_julie_sweet_d164c6d3f4.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_574",
+    "name": "K Krithivasan",
+    "title": "Chief Executive Officer (CEO) and Managing Director, Tata Consultancy Services",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_mr_krithivasan_e23ba122bc.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_575",
+    "name": "Kalyan Kumar",
+    "title": "Chief Product Officer, HCL Software",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Kalyan_Kumar_HCL_photo_eafd8fdd00.png",
+    "sessions": [
+      "session_5392",
+      "session_5288"
+    ],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_576",
+    "name": "Kunal Bahl",
+    "title": "Co-founder, AceVector & Titan Capital",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_kunal_bahl_f9c8f2fc2c.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_577",
+    "name": "Lars Reger",
+    "title": "Executive Vice President and Chief Technology Officer, NXP Semiconductors",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_lars_reger_de2fe99df0.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_580",
+    "name": "Mike Haley",
+    "title": "Senior Vice President, Research, Autodesk",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_mike_haley_4ec231a7ac.jpg",
+    "sessions": [
+      "session_5422"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_581",
+    "name": "Mustafa Furniturewala",
+    "title": "Chief Technology Officer (CTO), Coursera",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_mustafa_furniturewala_eb797a52e3.jpg",
+    "sessions": [
+      "session_5144",
+      "session_5392"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_582",
+    "name": "Nandan Nilekani",
+    "title": "Co-Founder and Chairman, Infosys Technologies Limited",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_nandan_nilekani_a76cab17c2.jpg",
+    "sessions": [
+      "session_5287",
+      "session_5131",
+      "session_5234"
+    ],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_584",
+    "name": "Natarajan Chandrasekaran",
+    "title": "Chairman, Tata Sons",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_natarajan_chandrasekaran_ca1314883e.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_585",
+    "name": "Natasha Crampton",
+    "title": "Vice President, Chief Responsible AI Officer, Microsoft",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Natasha_Color_4_a10ca5062f.jpg",
+    "sessions": [
+      "session_5088",
+      "session_5321",
+      "session_5159",
+      "session_5458",
+      "session_5227"
+    ],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_587",
+    "name": "Nikhila Natarajan",
+    "title": "Adjunct Professor - School of Communication and Information, Rutgers, The State University of New Jersey",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_nikhila_natarajan_b3f6154dc7.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_588",
+    "name": "Olivier Blum",
+    "title": "Chief Executive Officer (CEO), Schneider Electric",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/olivier_blum_1cdeb7e1f7.jpg",
+    "sessions": [
+      "session_5269"
+    ],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_589",
+    "name": "Pallavi Mahajan",
+    "title": "Global Chief Technology and AI Officer, Nokia",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_pallavi_mahajan_0a41d90339.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_590",
+    "name": "Prativa Mohapatra",
+    "title": "Managing Director, Adobe India",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_prativa_mohapatra_6444115080.jpg",
+    "sessions": [
+      "session_5098"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_591",
+    "name": "Prith Banerjee",
+    "title": "Senior Vice President of Innovation, Synopsys",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_prith_banerjee_6252d14ad7.jpg",
+    "sessions": [
+      "session_5080"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_594",
+    "name": "Rahul Singh",
+    "title": "COO - Corporate Functions, HCLTech",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_rahul_singh_cb08ea7c13.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_595",
+    "name": "Raj Reddy",
+    "title": "Professor, Computer Science and Robotics in the School of Computer Science,Carnegie Mellon University",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/raj_reddy_486aa5007b.jpg",
+    "sessions": [
+      "session_5066"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_597",
+    "name": "Rao Charagondla",
+    "title": "Chief Financial Officer, IIT Bay Area Alumni",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_rao_charagondla_02bb7a2e8f.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_598",
+    "name": "Ravi Kumar S",
+    "title": "Chief Executive Officer, Cognizant",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_3_Ravi_Kumar_S_CEO_Cognizant_1_c1e12cd26d.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_599",
+    "name": "Richard Marko",
+    "title": "Chief Executive Officer (CEO), ESET",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_richard_marco_417d39c146.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_600",
+    "name": "Roshni Nadar Malhotra",
+    "title": "Chairperson, HCLTech",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_roshni_nadar_malhotra_2be63eb1ee.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_601",
+    "name": "Roy Jakobs",
+    "title": "Chief Executive Officer (CEO), Royal Philips",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_roy_jakobs_33cabc5e26.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_602",
+    "name": "Ruchika Panesar",
+    "title": "Chief Digital and Information Officer, Group Functions & Country Head, India, NatWest Group",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_ruchika_panesar_81cf59a649.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_603",
+    "name": "Salil Parekh",
+    "title": "CEO & MD, Infosys",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Salil_Parekh_photo_b38c3751a1.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_604",
+    "name": "Sam Altman",
+    "title": "CEO, OpenAI",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Sam_Altman_1_a0297d0a63.png",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_605",
+    "name": "Sameer Jain",
+    "title": "Founder & CEO, Net Solutions",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_sameer_jain_d7343b2a57.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_606",
+    "name": "Sanjay Sharma",
+    "title": "Vice President, ArcelorMittal",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_sanjay_sharma_586034dd74.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_607",
+    "name": "Santhosh Viswanathan",
+    "title": "MD & Vice President, India region, Intel",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_santhosh_viswanathan_2b6d3729c3.jpg",
+    "sessions": [
+      "session_5082"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speaker_608",
+    "name": "Shantanu Narayen",
+    "title": "Chair and Chief Executive Officer (CEO), Adobe",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_shantanu_narayen_cbc9361086.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_609",
+    "name": "Shobana Kamineni",
+    "title": "Executive Chairperson, Apollo HealthCo",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Ms_Shobana_Kamineni_abe03a2778.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_610",
+    "name": "Sir Demis Hassabis",
+    "title": "Co-founder & Chief Executive Officer (CEO), Google DeepMind",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_demis_hassabis_a19c4f37a2.png",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_611",
+    "name": "Sundar Pichai",
+    "title": "CEO, Google and Alphabet",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_sundar_pichai_c958136f28.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_612",
+    "name": "Sunil Bharti Mittal",
+    "title": "Founder and Chairman, Bharti Enterprises",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_sunil_bharti_mittal_435575028f.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_613",
+    "name": "Victoria Espinel",
+    "title": "CEO, Business Software Alliance",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_victoria_espinel_19f85e2cf0.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_614",
+    "name": "Vijay Guntur",
+    "title": "CTO and Head of Ecosystems, HCLTech",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_vijay_guntur_67aee79876.jpg",
+    "sessions": [],
+    "tags": []
+  },
+  {
+    "id": "speaker_617",
+    "name": "Martin Tisné",
+    "title": "Founder and Chair, CurrentAI",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Martin_Tisne_bh_e6123f13d5.jpg",
+    "sessions": [
+      "session_5167",
+      "session_5319"
+    ],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_619",
+    "name": "Jeet Adani",
+    "title": "Director, Adani Airport Holdings Ltd. and Adani Digital Labs",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Jeet_Adani_photo_1cec297fcc.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_623",
+    "name": "Prof. P J Narayanan",
+    "title": "Professor former Director, International Institute of Information Technology Hyderabad (IIITH)",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/Prof_P_J_Narayan_7ac9579ff7.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_627",
+    "name": "Dr. Kalika Bali",
+    "title": "Senior Principal Researcher, Microsoft Research",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Kalika_Bali_ec2ef81126.jpg",
+    "sessions": [
+      "session_5143"
+    ],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_628",
+    "name": "Dr. Anand Deshpande",
+    "title": "Founder, Chairman, and Managing Director\tof Persistent Systems",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Anand_Deshpande_a0630e4bf8.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_630",
+    "name": "Dr. Venkat Padmanabhan",
+    "title": "Managing Director, Microsoft Research",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/Venkat_Padmanabhan_headshot_400x400_f123926b0f.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_634",
+    "name": "Prof. Subbarao Kambhampati",
+    "title": "Professor of Computing & Augmented Intelligence, Arizona State University",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Prof_Subbarao_Kambhampati_fbb85c3477.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_640",
+    "name": "Prof. Ramesh Raskar",
+    "title": "Associate Professor of Media Arts & Sc,\tMIT Media Labs",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/ramesh_Raskar_33c41e876d.jpg",
+    "sessions": [
+      "session_5365",
+      "session_5155"
+    ],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_642",
+    "name": "Dr. Manish Gupta",
+    "title": "Senior Director, Google DeepMind",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Manish_Gupta_6506a3af61.png",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_644",
+    "name": "Prof. Anima Anandkumar",
+    "title": "Prof of Computing & Mathematical Sc, Caltech",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/Anima_Anandkumar_852966891f.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_645",
+    "name": "Dr. Bonnie Kruft",
+    "title": "Managing Director, Microsoft Research AI for Science",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/bonnie_kruft_b430afcf01.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium"
+    ]
+  },
+  {
+    "id": "speaker_647",
+    "name": "Hemant Taneja",
+    "title": "CEO, General Catalyst",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Hemant_Taneja_General_Catalyst_50c326d266.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_652",
+    "name": "Kiran Mazumdar-Shaw",
+    "title": "Chairperson, Biocon Group",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Kiran_Mazumdar_pic_03e46f7f75.jpg",
+    "sessions": [
+      "session_5131"
+    ],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_654",
+    "name": "Raj Koneru",
+    "title": "CEO, Kore.ai",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Raj_Koneru_66d0e4dfa0.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_656",
+    "name": "Bipul Sinha",
+    "title": "CEO, Chairman and Co-Founder, Rubrik",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Bipul_Sinha_6afd424f67.jpg",
+    "sessions": [
+      "session_5146"
+    ],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_664",
+    "name": "Rajesh Subramanian",
+    "title": "CEO, FedEx",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_rajesh_subramaniam_21bd1fbaf7.jpg",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_665",
+    "name": "Matthew Prince",
+    "title": "CEO, Cloudflare",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Matthew_Prince_1_9e01350474.png",
+    "sessions": [
+      "session_5148"
+    ],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_666",
+    "name": "Prof. Balaraman Ravindaran",
+    "title": "Head, Department of Data Science & AI, IIT Madras",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Balaraman_Ravindran_7a8b3dacbf.png",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_667",
+    "name": "Takahito Tokita",
+    "title": "Representative Director, CEO, Fujitsu Limited",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Tokita_Takahito_Fujitsu_CEO_e0ba8aa35f.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_672",
+    "name": "Bejul Somaia",
+    "title": "Partner, Lightspeed",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_bejul_somaia_d459757250.png",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_673",
+    "name": "Ravi Mhatre",
+    "title": "Partner and Co-Founder, Lightspeed",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_ravi_mhatre_2d076ec0e7.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_677",
+    "name": "Arthur Mensch",
+    "title": "Co-Founder and CEO, Mistral AI",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Arthur_Mensch_2025_1_1_521f1f2246.JPG",
+    "sessions": [
+      "session_5431"
+    ],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_679",
+    "name": "Prof. Yoshua Bengio",
+    "title": "Founder & Chair, Mila Institute",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_yoshua_bengio_3f904d33f3.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_681",
+    "name": "Navrina Singh",
+    "title": "Founder & CEO, Credo AI",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Navrina_Singh_a3315087cb.png",
+    "sessions": [
+      "session_5082",
+      "session_5201",
+      "session_5175"
+    ],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_683",
+    "name": "Arundhati Bhattacharya",
+    "title": "Chairperson & CEO, Salesforce India",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Arundhati_Bhattacharya_9dabb9421d.JPG",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_684",
+    "name": "Cristiano Amon",
+    "title": "Chief Executive Officer (CEO), Qualcomm",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_cristiano_2024_headshot_full_e9b61928ce.png",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_687",
+    "name": "Martin Schroeter",
+    "title": "Chairman and CEO, Kyndryl",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Martin_Schroeter_Headshot_close_0eea0faa63.png",
+    "sessions": [],
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_689",
+    "name": "Umesh Sachdev",
+    "title": "CEO and Co-founder, Uniphore",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Umesh_Sachdev_Preferred_ef71e6126c.jpg",
+    "sessions": [
+      "session_5146"
+    ],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_691",
+    "name": "Vishal Sikka",
+    "title": "Founder and CEO, Vianai Systems",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Vishal_Sikka_af22d2bc80.png",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_717",
+    "name": "Dr. Shivkumar Kalyanaraman",
+    "title": "CEO, Anusandhan National Research Foundation (ANRF)",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Shivkumar_Kalyanaraman_ea4559931f.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_718",
+    "name": "Prof. Stuart J Russell",
+    "title": "Professor, University of California, Berkeley",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/stuart_j_russel_386587ddf1.png",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_720",
+    "name": "Prof. Vukosi Marivate",
+    "title": "Professor of Computer Science, University of Pretoria",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_vukosi_marivate_edf001c1e6.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_727",
+    "name": "Prof. Somesh Jha",
+    "title": "Professor of Computer Science, University of Wisconsin–Madison",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_somesh_jha_094b121ecf.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_729",
+    "name": "Prof. Yann LeCun",
+    "title": "Professor of CS, NYU & Exec Chairman, AMI Labs",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Yann_Le_Cun_b73714574b.jpeg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_730",
+    "name": "Vivek Mahajan",
+    "title": "CTO, Fujitsu Limited",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Fujitsu_CTO_Vivek_Mahajan_b6cb2f8f3a.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_733",
+    "name": "Nikesh Arora",
+    "title": "Chairman and Chief Executive Officer, Palo Alto Networks",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_nikesh_arora_c275a9898b.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "featured"
+    ]
+  },
+  {
+    "id": "speaker_735",
+    "name": "Seema Ambastha",
+    "title": "Chief Executive, Larsen & Toubro - Vyoma",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Seema_Ambastha_Photo_JPG_1_1_697c778add.jpeg",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_737",
+    "name": "Tony Blair",
+    "title": "Executive Chairman, Tony Blair Institute for Global Change",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/TB_headshot_130edf028a.png",
+    "sessions": [],
+    "tags": [
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_738",
+    "name": "Prof. Surya Ganguli",
+    "title": "Associate Professor of Applied Physics & Comp Sc, Stanford University",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_prof_surya_ganguli_2_1_1b74933d8a.jpg",
+    "sessions": [],
+    "tags": [
+      "research-symposium",
+      "key-attendee"
+    ]
+  },
+  {
+    "id": "speaker_739",
+    "name": "Prof. Aditya Vashishtha",
+    "title": "Asst Professor of Information Science, Cornell University",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Prof_Aditya_Vashishtha_1_60f6799064.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_740",
+    "name": "Dr. Aisha Walcott-Byrant",
+    "title": "Head of Research, Google Africa",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Aisha_Walcott_Byrant_2_above_2_MB_7135b5d8f4.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_741",
+    "name": "Dr. Jacki O'Neill",
+    "title": "Director, Microsoft Research, Africa",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Jacki_O_Neill_1_40da786af3.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_742",
+    "name": "Prof. Monojit Choudhury",
+    "title": "Professor of NLP, MBZUAI",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/thumbnail_Prof_Monojit_Choudhury_1_157deb7be4_20ab456d39.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_743",
+    "name": "Dr. Sunayana Sitaram",
+    "title": "Principal Researcher, Microsoft Research",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Sunayana_Sitaram_1_372fee2936.JPG",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_744",
+    "name": "Dr. Liming Zhu",
+    "title": "Head of the AI & Digital Division, CSIRO",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Prof_Liming_Zhu_1_39531e3168.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_745",
+    "name": "Prof. Nicholas Davis",
+    "title": "Prof of Emerging Technology, U/o Technology Sydney",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_Dr_Nicholas_Davis_above_2_MB_b1d4bf90c8.jpg",
+    "sessions": [],
+    "tags": [
+      "key-attendee",
+      "international"
+    ]
+  },
+  {
+    "id": "speaker_747",
+    "name": "Natalie Black",
+    "title": "Group Director (Infrastructure and Connectivity) and Executive Board Member, Ofcom",
+    "photoUrl": "https://d19ob9sqegt2wc.cloudfront.net/stage/uploads/small_natalie_black_a2505b9be7.jpg",
+    "sessions": [
+      "session_5173"
+    ],
+    "tags": []
+  }
+]

@@ -1,0 +1,5654 @@
+{
+  "exhibitors": [
+    {
+      "id": "exhibitor_001",
+      "name": "Benchmark ESG Pvt Limited India",
+      "hall": "1",
+      "sqm": "18",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bemnchmark.webp"
+    },
+    {
+      "id": "exhibitor_002",
+      "name": "BharatGen, TIH foundation for IoT & IoE",
+      "hall": "2",
+      "sqm": "42",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/Bharatgen.webp"
+    },
+    {
+      "id": "exhibitor_003",
+      "name": "CSR BOX",
+      "hall": "8",
+      "sqm": "114",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/crsbox.webp"
+    },
+    {
+      "id": "exhibitor_004",
+      "name": "Exotel",
+      "hall": "8",
+      "sqm": "48",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/exotel.webp"
+    },
+    {
+      "id": "exhibitor_005",
+      "name": "Neo4j",
+      "hall": "8",
+      "sqm": "21",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neo4j.webp"
+    },
+    {
+      "id": "exhibitor_006",
+      "name": "Airtel",
+      "hall": "2",
+      "sqm": "475",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/airtel.webp"
+    },
+    {
+      "id": "exhibitor_007",
+      "name": "Netweb Technologies India Ltd.",
+      "hall": "3",
+      "sqm": "300",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/netweb.webp"
+    },
+    {
+      "id": "exhibitor_008",
+      "name": "Larsen & Toubro Vyoma",
+      "hall": "8",
+      "sqm": "450",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/l_t.webp"
+    },
+    {
+      "id": "exhibitor_009",
+      "name": "Intel",
+      "hall": "8",
+      "sqm": "204",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intel.webp"
+    },
+    {
+      "id": "exhibitor_010",
+      "name": "Red Hat India Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "105",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/redhat.webp"
+    },
+    {
+      "id": "exhibitor_011",
+      "name": "Adobe",
+      "hall": "8",
+      "sqm": "104",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/adobe.webp"
+    },
+    {
+      "id": "exhibitor_012",
+      "name": "AMD",
+      "hall": "8",
+      "sqm": "128",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/amd.webp"
+    },
+    {
+      "id": "exhibitor_013",
+      "name": "Deloitte Touche Tohmatsu India LLP (DTTILLP)",
+      "hall": "8",
+      "sqm": "304",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/deloitte.webp"
+    },
+    {
+      "id": "exhibitor_014",
+      "name": "Neutrinos",
+      "hall": "8",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neutrinos.webp"
+    },
+    {
+      "id": "exhibitor_015",
+      "name": "AISECT",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aisect.webp"
+    },
+    {
+      "id": "exhibitor_016",
+      "name": "Apolitical Group Limited",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/apolitical.webp"
+    },
+    {
+      "id": "exhibitor_017",
+      "name": "CBS INFORMATION SYSYEMS INC (Aviru IT Systems Pvt. Ltd.)",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cbs.webp"
+    },
+    {
+      "id": "exhibitor_018",
+      "name": "Asus",
+      "hall": "8",
+      "sqm": "275",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/asus.webp"
+    },
+    {
+      "id": "exhibitor_019",
+      "name": "Atman Cloud Consultants Pvt Lmt",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/atman.webp"
+    },
+    {
+      "id": "exhibitor_020",
+      "name": "AVPN Asia",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/avpn.webp"
+    },
+    {
+      "id": "exhibitor_021",
+      "name": "AI Ready School",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ai_ready.webp"
+    },
+    {
+      "id": "exhibitor_022",
+      "name": "BITS Pilani, Hyderabad",
+      "hall": "8",
+      "sqm": "55",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bits.webp"
+    },
+    {
+      "id": "exhibitor_023",
+      "name": "Cybersecurity NexT Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cybernxxt.webp"
+    },
+    {
+      "id": "exhibitor_024",
+      "name": "Government of Bihar (Department of Information Technology)",
+      "hall": "8",
+      "sqm": "170",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/government-of-bihar.webp"
+    },
+    {
+      "id": "exhibitor_025",
+      "name": "Chemours",
+      "hall": "9",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/chemours.webp"
+    },
+    {
+      "id": "exhibitor_026",
+      "name": "Siemens Technology & Services Pvt. Ltd.",
+      "hall": "9",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/siemens_technology.webp"
+    },
+    {
+      "id": "exhibitor_027",
+      "name": "Cisco Commerce Cisco Systems",
+      "hall": "8",
+      "sqm": "105",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cisco.webp"
+    },
+    {
+      "id": "exhibitor_028",
+      "name": "Corning Technologies India Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "36",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/corning.webp"
+    },
+    {
+      "id": "exhibitor_029",
+      "name": "DevRev.ai",
+      "hall": "8",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/devrev.webp"
+    },
+    {
+      "id": "exhibitor_030",
+      "name": "WIPLON - Webspiders Interweb Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/WIPL.webp"
+    },
+    {
+      "id": "exhibitor_031",
+      "name": "EDU VANTAGE Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/eduvantage.webp"
+    },
+    {
+      "id": "exhibitor_032",
+      "name": "Embassy of Switzerland in India and Bhutan",
+      "hall": "8",
+      "sqm": "105",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/embassy_of_switzerland.webp"
+    },
+    {
+      "id": "exhibitor_033",
+      "name": "Italian Trade Agency",
+      "hall": "8",
+      "sqm": "204",
+      "category": "Country Pavilion",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/ITA.webp"
+    },
+    {
+      "id": "exhibitor_034",
+      "name": "ESET",
+      "hall": "8",
+      "sqm": "64",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/eset.webp"
+    },
+    {
+      "id": "exhibitor_035",
+      "name": "Eka Care",
+      "hall": "8",
+      "sqm": "12",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/eka.webp"
+    },
+    {
+      "id": "exhibitor_036",
+      "name": "Hanunnotech (Hanumayamma Innovations and Technologies Pvt. Ltd.)",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hanumayamma.webp"
+    },
+    {
+      "id": "exhibitor_037",
+      "name": "HCLSoftware",
+      "hall": "8",
+      "sqm": "247",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hcl.webp"
+    },
+    {
+      "id": "exhibitor_038",
+      "name": "Cygnet Infotech Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cygnet.webp"
+    },
+    {
+      "id": "exhibitor_039",
+      "name": "Netsutra",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/netsutra.webp"
+    },
+    {
+      "id": "exhibitor_040",
+      "name": "Cyfuture India Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cyfuture.webp"
+    },
+    {
+      "id": "exhibitor_041",
+      "name": "Lexlegis.ai",
+      "hall": "8",
+      "sqm": "117",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/lex.webp"
+    },
+    {
+      "id": "exhibitor_042",
+      "name": "Sol9X Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sol9x.webp"
+    },
+    {
+      "id": "exhibitor_043",
+      "name": "Constl (Spaceworld)",
+      "hall": "8",
+      "sqm": "168",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/spaceworld.webp"
+    },
+    {
+      "id": "exhibitor_044",
+      "name": "Dr. A.P.J Abdul Kalam Technical University Lucknow",
+      "hall": "8",
+      "sqm": "308",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/apj.webp"
+    },
+    {
+      "id": "exhibitor_045",
+      "name": "Railtel Corporation 0f India Limited",
+      "hall": "8",
+      "sqm": "49",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/railtel.webp"
+    },
+    {
+      "id": "exhibitor_046",
+      "name": "SIFY",
+      "hall": "8",
+      "sqm": "120",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sify.webp"
+    },
+    {
+      "id": "exhibitor_047",
+      "name": "DDN",
+      "hall": "8",
+      "sqm": "120",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ddn.webp"
+    },
+    {
+      "id": "exhibitor_048",
+      "name": "Neysa Networks Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "130",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neysa.webp"
+    },
+    {
+      "id": "exhibitor_049",
+      "name": "Nugen Intelligence",
+      "hall": "8",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nugen.webp"
+    },
+    {
+      "id": "exhibitor_050",
+      "name": "Rooman Technologies Pvt. Ltd.",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rooman.webp"
+    },
+    {
+      "id": "exhibitor_051",
+      "name": "Population Council Institute",
+      "hall": "8",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pci-logo.webp"
+    },
+    {
+      "id": "exhibitor_052",
+      "name": "iStreet Network Ltd",
+      "hall": "8",
+      "sqm": "35",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/istreet.webp"
+    },
+    {
+      "id": "exhibitor_053",
+      "name": "Tata Consultancy Services Limited (Tata AI Innovation Pavilion)",
+      "hall": "15",
+      "sqm": "1020",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/tcs-consultancy-1.webp"
+    },
+    {
+      "id": "exhibitor_054",
+      "name": "Tata Group",
+      "hall": "15",
+      "sqm": "1020",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tata_group.webp"
+    },
+    {
+      "id": "exhibitor_055",
+      "name": "Google India",
+      "hall": "8",
+      "sqm": "1020",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/google_india.webp"
+    },
+    {
+      "id": "exhibitor_056",
+      "name": "Jio Intelligence",
+      "hall": "8",
+      "sqm": "1054",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/jio_intelligence.webp"
+    },
+    {
+      "id": "exhibitor_057",
+      "name": "Yotta Data Services",
+      "hall": "8",
+      "sqm": "195",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Yotta-Data-Services.webp"
+    },
+    {
+      "id": "exhibitor_058",
+      "name": "Rootle AI",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rootle.webp"
+    },
+    {
+      "id": "exhibitor_059",
+      "name": "Supermicro Computer Inc. Taiwan",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/super.webp"
+    },
+    {
+      "id": "exhibitor_060",
+      "name": "Hindustan Institute of Technology and Science",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hindustan.webp"
+    },
+    {
+      "id": "exhibitor_061",
+      "name": "Government of Odisha (Odisha Computer Applications Centre)",
+      "hall": "15",
+      "sqm": "130",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ocac.webp"
+    },
+    {
+      "id": "exhibitor_062",
+      "name": "SST India",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sst.webp"
+    },
+    {
+      "id": "exhibitor_063",
+      "name": "2B Innovations Technology Services Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/2b.webp"
+    },
+    {
+      "id": "exhibitor_064",
+      "name": "Pienomial Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pienomial.webp"
+    },
+    {
+      "id": "exhibitor_065",
+      "name": "CloudPe",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cloudpe.webp"
+    },
+    {
+      "id": "exhibitor_066",
+      "name": "WEKA",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/weka.webp"
+    },
+    {
+      "id": "exhibitor_067",
+      "name": "Rapifuzz Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rapi.webp"
+    },
+    {
+      "id": "exhibitor_068",
+      "name": "Virtual Height IT Services Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/virtual_height.webp"
+    },
+    {
+      "id": "exhibitor_069",
+      "name": "Meta",
+      "hall": "15",
+      "sqm": "450",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/facebook_india_online_services_pvt_ltd_meta_.webp"
+    },
+    {
+      "id": "exhibitor_070",
+      "name": "Fore Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/fore.webp"
+    },
+    {
+      "id": "exhibitor_071",
+      "name": "Fortinet",
+      "hall": "15",
+      "sqm": "156",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/fortinet.webp"
+    },
+    {
+      "id": "exhibitor_072",
+      "name": "Codespire Solutions India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/codespire.webp"
+    },
+    {
+      "id": "exhibitor_073",
+      "name": "Rodic Consultants Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rodic.webp"
+    },
+    {
+      "id": "exhibitor_074",
+      "name": "Innefu Labs Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/innefu.webp"
+    },
+    {
+      "id": "exhibitor_075",
+      "name": "IBM",
+      "hall": "15",
+      "sqm": "104",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ibm.webp"
+    },
+    {
+      "id": "exhibitor_076",
+      "name": "Linkedin",
+      "hall": "15",
+      "sqm": "156",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/linkedin.webp"
+    },
+    {
+      "id": "exhibitor_077",
+      "name": "Rurtech For Arayans Llp",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rurtech.webp"
+    },
+    {
+      "id": "exhibitor_078",
+      "name": "Ministry of Skill Development and Entrepreneurship",
+      "hall": "15",
+      "sqm": "112",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/skill-developement.webp"
+    },
+    {
+      "id": "exhibitor_079",
+      "name": "Angelbot AI Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/anglebot-ai.webp"
+    },
+    {
+      "id": "exhibitor_080",
+      "name": "Minaions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/minaions.webp"
+    },
+    {
+      "id": "exhibitor_081",
+      "name": "Kenpath technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kenpath.webp"
+    },
+    {
+      "id": "exhibitor_082",
+      "name": "T4G Lab",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/t4glab.webp"
+    },
+    {
+      "id": "exhibitor_083",
+      "name": "Gazelle Information Technologies",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gazelle.webp"
+    },
+    {
+      "id": "exhibitor_084",
+      "name": "Sambanova Systems India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sambanova.webp"
+    },
+    {
+      "id": "exhibitor_085",
+      "name": "Soket Labs Technology and Research Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "16",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/soket.webp"
+    },
+    {
+      "id": "exhibitor_086",
+      "name": "Qualcomm India Pvt. Limited",
+      "hall": "15",
+      "sqm": "408",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/qualcomm.webp"
+    },
+    {
+      "id": "exhibitor_087",
+      "name": "Infosys",
+      "hall": "15",
+      "sqm": "325",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/infosys.webp"
+    },
+    {
+      "id": "exhibitor_088",
+      "name": "Vertiv",
+      "hall": "15",
+      "sqm": "323",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vertiv.webp"
+    },
+    {
+      "id": "exhibitor_089",
+      "name": "Schneider Electric",
+      "hall": "15",
+      "sqm": "312",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/schneider.webp"
+    },
+    {
+      "id": "exhibitor_090",
+      "name": "Cognizant Technology Solutions",
+      "hall": "15",
+      "sqm": "242",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cognizant.webp"
+    },
+    {
+      "id": "exhibitor_091",
+      "name": "Intellect Design Arena",
+      "hall": "15",
+      "sqm": "225",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intellect.webp"
+    },
+    {
+      "id": "exhibitor_092",
+      "name": "ServiceNow Software Development India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "180",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/servicenow.webp"
+    },
+    {
+      "id": "exhibitor_093",
+      "name": "Wadhwani Foundation",
+      "hall": "15",
+      "sqm": "117",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/wadhwani_foundation.webp"
+    },
+    {
+      "id": "exhibitor_094",
+      "name": "Wadhwani AI",
+      "hall": "15",
+      "sqm": "117",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/wadhwani.webp"
+    },
+    {
+      "id": "exhibitor_095",
+      "name": "Accenture",
+      "hall": "15",
+      "sqm": "64",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/accenture.webp"
+    },
+    {
+      "id": "exhibitor_096",
+      "name": "Accenture LearnVantage",
+      "hall": "15",
+      "sqm": "182",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/accenture.webp"
+    },
+    {
+      "id": "exhibitor_097",
+      "name": "Iconova Creative Outreach Network Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iconova.webp"
+    },
+    {
+      "id": "exhibitor_098",
+      "name": "Arista Networks",
+      "hall": "15",
+      "sqm": "72",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/arista.webp"
+    },
+    {
+      "id": "exhibitor_099",
+      "name": "Razorpay",
+      "hall": "15",
+      "sqm": "66",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/razorpay.webp"
+    },
+    {
+      "id": "exhibitor_100",
+      "name": "Plivo",
+      "hall": "15",
+      "sqm": "104",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/plivo.webp"
+    },
+    {
+      "id": "exhibitor_101",
+      "name": "Turiya Semiconductors Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "48",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/turiyam.webp"
+    },
+    {
+      "id": "exhibitor_102",
+      "name": "Vast Data",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vast_data.webp"
+    },
+    {
+      "id": "exhibitor_103",
+      "name": "Xlscout Xlpat India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/xlsout.webp"
+    },
+    {
+      "id": "exhibitor_104",
+      "name": "Axis My India",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/axis-my-india.webp"
+    },
+    {
+      "id": "exhibitor_105",
+      "name": "Indian Institute of Technology Madras",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/insitute-of-tec-madras.webp"
+    },
+    {
+      "id": "exhibitor_106",
+      "name": "Galgotias University",
+      "hall": "15",
+      "sqm": "155",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/galgotias.webp"
+    },
+    {
+      "id": "exhibitor_107",
+      "name": "Mirror Security Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mirroe-security.webp"
+    },
+    {
+      "id": "exhibitor_108",
+      "name": "Rural Electrification Corp. Ltd.",
+      "hall": "15",
+      "sqm": "140",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rec.webp"
+    },
+    {
+      "id": "exhibitor_109",
+      "name": "Coal India Limited <br>(CMPDI)",
+      "hall": "15",
+      "sqm": "130",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/coal-india.webp"
+    },
+    {
+      "id": "exhibitor_110",
+      "name": "ParadigmIT Technology Services Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/paradigmit.webp"
+    },
+    {
+      "id": "exhibitor_111",
+      "name": "Gautam Solar Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gautam_solar.webp"
+    },
+    {
+      "id": "exhibitor_112",
+      "name": "Hackerearth Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "30",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hackerearth.webp"
+    },
+    {
+      "id": "exhibitor_113",
+      "name": "Avesta Labs LLP",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/avesta.webp"
+    },
+    {
+      "id": "exhibitor_114",
+      "name": "Skorydov Robotics",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/skorydov.webp"
+    },
+    {
+      "id": "exhibitor_115",
+      "name": "United Tyrekrafts Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/united_tyrekrafts_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_116",
+      "name": "Salesforce",
+      "hall": "15",
+      "sqm": "176",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/salesforce.webp"
+    },
+    {
+      "id": "exhibitor_117",
+      "name": "Cloudflare India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "140",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cloudflare_india_private_limited_.webp"
+    },
+    {
+      "id": "exhibitor_118",
+      "name": "Technology Services Industry Association",
+      "hall": "15",
+      "sqm": "48",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/technology_services_industry_association.webp"
+    },
+    {
+      "id": "exhibitor_119",
+      "name": "NeevCloud",
+      "hall": "15",
+      "sqm": "98",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neevcloud.webp"
+    },
+    {
+      "id": "exhibitor_120",
+      "name": "NTT DATA",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ntt_global_data_centers_cloud_infrastructure_.webp"
+    },
+    {
+      "id": "exhibitor_121",
+      "name": "Relu AI Systems Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/relu_ai_systems_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_122",
+      "name": "Smallest AI (Awaaz Labs Pvt. Ltd.)",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/awaaz_labs_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_123",
+      "name": "Wipro Limited",
+      "hall": "15",
+      "sqm": "156",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/wipro.webp"
+    },
+    {
+      "id": "exhibitor_124",
+      "name": "Aarna Tech Consultants Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aarna_tech.webp"
+    },
+    {
+      "id": "exhibitor_125",
+      "name": "Airawat Research Foundation",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/airawat_research_foundation.webp"
+    },
+    {
+      "id": "exhibitor_126",
+      "name": "PreDusk Technology Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/predusk_technology_private_limited_.webp"
+    },
+    {
+      "id": "exhibitor_127",
+      "name": "Amnet Digital Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/amnet_digital_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_128",
+      "name": "Digital Health Associates Pvt. Ltd",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/digital_health_associates_.webp"
+    },
+    {
+      "id": "exhibitor_129",
+      "name": "Antier Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/antier_solutions_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_130",
+      "name": "Dell technologies",
+      "hall": "15",
+      "sqm": "304",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dell.webp"
+    },
+    {
+      "id": "exhibitor_131",
+      "name": "Ministry of Panchayati Raj",
+      "hall": "15",
+      "sqm": "130",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/panchayati_raj.webp"
+    },
+    {
+      "id": "exhibitor_132",
+      "name": "Ariams Consulting Inc",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ariams_consulting_inc.webp"
+    },
+    {
+      "id": "exhibitor_133",
+      "name": "Avirasoft Digital Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/avirasoft_digital_technologies_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_134",
+      "name": "SquadStack.ai",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/squadrun_solutions_private_limited_squadstack_ai_.webp"
+    },
+    {
+      "id": "exhibitor_135",
+      "name": "SmoothAi Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/smooth_ai_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_136",
+      "name": "Kgraph AI Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kgraph_ai_solutions_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_137",
+      "name": "Institute of Chartered Accountant of India",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/the_institute_of_chartered_accountants_of_india.webp"
+    },
+    {
+      "id": "exhibitor_138",
+      "name": "AI Ventures",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/_ai_ventures.webp"
+    },
+    {
+      "id": "exhibitor_139",
+      "name": "Fairvaluation (Unlock Future Fintech Pvt. ltd.)",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/unlock_future_fintech_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_140",
+      "name": "Scikiq Data Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/scikiq.webp"
+    },
+    {
+      "id": "exhibitor_141",
+      "name": "Posidex technologies",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/posidex_technologies_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_142",
+      "name": "Civic Data Labs",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/civil_datalab_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_143",
+      "name": "CommScope Inc",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tag_enterprises_commscope_inc_.webp"
+    },
+    {
+      "id": "exhibitor_144",
+      "name": "Intensity Global Technologies Limited",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intensity_global_technologies_limited.webp"
+    },
+    {
+      "id": "exhibitor_145",
+      "name": "ESDS Software Solution Limited",
+      "hall": "15",
+      "sqm": "48",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/esds_software_solution_limited.webp"
+    },
+    {
+      "id": "exhibitor_146",
+      "name": "Hughes Systique Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hughes_systique_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_147",
+      "name": "Extramarks Education India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/extramarks_education_india_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_148",
+      "name": "HP India Sales Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "306",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/hp.webp"
+    },
+    {
+      "id": "exhibitor_149",
+      "name": "Acxiom Technologies",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/acxiom_technologies.webp"
+    },
+    {
+      "id": "exhibitor_150",
+      "name": "ARTPARK",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/artpark.webp"
+    },
+    {
+      "id": "exhibitor_151",
+      "name": "Australian Government",
+      "hall": "15",
+      "sqm": "35",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/au_gov.webp"
+    },
+    {
+      "id": "exhibitor_152",
+      "name": "AWS/Amazon",
+      "hall": "15",
+      "sqm": "600",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aws.webp"
+    },
+    {
+      "id": "exhibitor_153",
+      "name": "Axis Bank Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/axis.webp"
+    },
+    {
+      "id": "exhibitor_154",
+      "name": "Biz-Tech Analytics",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/biz.webp"
+    },
+    {
+      "id": "exhibitor_155",
+      "name": "British High Commission India",
+      "hall": "15",
+      "sqm": "226",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bhc.webp"
+    },
+    {
+      "id": "exhibitor_156",
+      "name": "Business France",
+      "hall": "15",
+      "sqm": "328",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/business_france.webp"
+    },
+    {
+      "id": "exhibitor_157",
+      "name": "Vishwakarma University (Institute of Technology)",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vishwakarma_institute.webp"
+    },
+    {
+      "id": "exhibitor_158",
+      "name": "Bosch",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bosch.webp"
+    },
+    {
+      "id": "exhibitor_159",
+      "name": "Centre for Journalism Innovation and Development (CJID)",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cjid.webp"
+    },
+    {
+      "id": "exhibitor_160",
+      "name": "Froncort.AI Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/frontcort.webp"
+    },
+    {
+      "id": "exhibitor_161",
+      "name": "Gnani.ai",
+      "hall": "15",
+      "sqm": "221",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gnani.webp"
+    },
+    {
+      "id": "exhibitor_162",
+      "name": "Government of Japan",
+      "hall": "15",
+      "sqm": "98",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/japan_gov.webp"
+    },
+    {
+      "id": "exhibitor_163",
+      "name": "Head Held High Foundation/ Jan AI",
+      "hall": "15",
+      "sqm": "176",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/jan_ai.webp"
+    },
+    {
+      "id": "exhibitor_164",
+      "name": "HPE",
+      "hall": "15",
+      "sqm": "112",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hpe.webp"
+    },
+    {
+      "id": "exhibitor_165",
+      "name": "Indus IntelliRisk and IntelliSense Services Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/iiris.webp"
+    },
+    {
+      "id": "exhibitor_166",
+      "name": "Biotechnology Industry Research Assistance Council",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/grand_challenges_india.webp"
+    },
+    {
+      "id": "exhibitor_167",
+      "name": "MapZot.AI",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mapzot.webp"
+    },
+    {
+      "id": "exhibitor_168",
+      "name": "Mastercard",
+      "hall": "15",
+      "sqm": "144",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mastercard.webp"
+    },
+    {
+      "id": "exhibitor_169",
+      "name": "Microsoft",
+      "hall": "15",
+      "sqm": "156",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/microsoft.webp"
+    },
+    {
+      "id": "exhibitor_170",
+      "name": "Nasscom",
+      "hall": "15",
+      "sqm": "21",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nasscom.webp"
+    },
+    {
+      "id": "exhibitor_171",
+      "name": "International Neurodegenerative Disorders Research Center",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Research",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/INDRC.webp"
+    },
+    {
+      "id": "exhibitor_172",
+      "name": "NVIDIA",
+      "hall": "15",
+      "sqm": "578",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nvidia.webp"
+    },
+    {
+      "id": "exhibitor_173",
+      "name": "Government of Andhra Pradesh (Real Time Governance Society under ITE&C Department)",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/real_time_governance.webp"
+    },
+    {
+      "id": "exhibitor_174",
+      "name": "SapidBlue",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sapid_blue.webp"
+    },
+    {
+      "id": "exhibitor_175",
+      "name": "SAS Institute India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sas.webp"
+    },
+    {
+      "id": "exhibitor_176",
+      "name": "Planetskool",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/planetskool.webp"
+    },
+    {
+      "id": "exhibitor_177",
+      "name": "Tech Mahindra",
+      "hall": "15",
+      "sqm": "117",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tech_mahindra.webp"
+    },
+    {
+      "id": "exhibitor_178",
+      "name": "Transline Technologies Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/transline.webp"
+    },
+    {
+      "id": "exhibitor_179",
+      "name": "Unique Identification Authority of India",
+      "hall": "15",
+      "sqm": "70",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aadhaar.webp"
+    },
+    {
+      "id": "exhibitor_180",
+      "name": "United Nations World Food Programme",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/wfp.webp"
+    },
+    {
+      "id": "exhibitor_181",
+      "name": "VVDN Technologies",
+      "hall": "15",
+      "sqm": "204",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vvdn.webp"
+    },
+    {
+      "id": "exhibitor_182",
+      "name": "Chat360.io (Sumanel Technology Ventures Pvt. Ltd.)",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/chat_360.webp"
+    },
+    {
+      "id": "exhibitor_183",
+      "name": "Taiyo.AI",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/taiyo.webp"
+    },
+    {
+      "id": "exhibitor_184",
+      "name": "The Netherlands",
+      "hall": "15",
+      "sqm": "75",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/the_netherlands.webp"
+    },
+    {
+      "id": "exhibitor_185",
+      "name": "Turing Enterprises (Rainphase Technologies)",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/turing.webp"
+    },
+    {
+      "id": "exhibitor_186",
+      "name": "Prismberry Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/prismberry.webp"
+    },
+    {
+      "id": "exhibitor_187",
+      "name": "iMerit Technology",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/imerit.webp"
+    },
+    {
+      "id": "exhibitor_188",
+      "name": "Open AI",
+      "hall": "15",
+      "sqm": "300",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/openai.webp"
+    },
+    {
+      "id": "exhibitor_189",
+      "name": "IIT Bombay (Indian Institute of Technology Bombay)",
+      "hall": "15",
+      "sqm": "35",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iit_bombay.webp"
+    },
+    {
+      "id": "exhibitor_190",
+      "name": "Genpact India Private Limited",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/genpact.webp"
+    },
+    {
+      "id": "exhibitor_191",
+      "name": "CoRover Private Limted",
+      "hall": "15",
+      "sqm": "112",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/co_rover.webp"
+    },
+    {
+      "id": "exhibitor_192",
+      "name": "Jio Institute",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/jio_institite.webp"
+    },
+    {
+      "id": "exhibitor_193",
+      "name": "Indian Navy",
+      "hall": "15",
+      "sqm": "70",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/navy.webp"
+    },
+    {
+      "id": "exhibitor_194",
+      "name": "Centre for Railway Information Systems (CRIS)",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cris.webp"
+    },
+    {
+      "id": "exhibitor_195",
+      "name": "Ministry of Education",
+      "hall": "15",
+      "sqm": "296",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/education.webp"
+    },
+    {
+      "id": "exhibitor_196",
+      "name": "11ZA",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/11za.webp"
+    },
+    {
+      "id": "exhibitor_197",
+      "name": "Ministry of Electronics and Information Technology",
+      "hall": "15",
+      "sqm": "816",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/meity.webp"
+    },
+    {
+      "id": "exhibitor_198",
+      "name": "Ministry of Information & Broadcastings",
+      "hall": "15",
+      "sqm": "493",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ministry_of_information_broadcastings.webp"
+    },
+    {
+      "id": "exhibitor_199",
+      "name": "Department of Food and Public Distribution, Ministry of Consumer Affairs",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ministry_of_consumer_affairs.webp"
+    },
+    {
+      "id": "exhibitor_200",
+      "name": "Sarvam AI",
+      "hall": "15",
+      "sqm": "126",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sarvam.webp"
+    },
+    {
+      "id": "exhibitor_201",
+      "name": "Government of Gujarat (Department of Science and Technology)",
+      "hall": "15",
+      "sqm": "228",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/science_and_technology.webp"
+    },
+    {
+      "id": "exhibitor_202",
+      "name": "Ministry of Power",
+      "hall": "15",
+      "sqm": "119",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/power.webp"
+    },
+    {
+      "id": "exhibitor_203",
+      "name": "Government of Karnataka (Department of Electronics, IT and Biotechnology)",
+      "hall": "15",
+      "sqm": "203",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/karnataka.webp"
+    },
+    {
+      "id": "exhibitor_204",
+      "name": "Bharat Electronics Ltd",
+      "hall": "15",
+      "sqm": "70",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bharat_electronics_ltd.webp"
+    },
+    {
+      "id": "exhibitor_205",
+      "name": "Anusandhan National Research Foundation (ANRF)",
+      "hall": "15",
+      "sqm": "42",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/anrf.webp"
+    },
+    {
+      "id": "exhibitor_206",
+      "name": "Kyndryl Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "176",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kyyndryl.webp"
+    },
+    {
+      "id": "exhibitor_207",
+      "name": "Government of Uttarakhand (Department of Information Technology)",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/govt_of_uttarakhand.webp"
+    },
+    {
+      "id": "exhibitor_208",
+      "name": "NIMBORA",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nimbora.webp"
+    },
+    {
+      "id": "exhibitor_209",
+      "name": "Government of Telangana (T-Hub Foundation)",
+      "hall": "15",
+      "sqm": "49",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/t_hub.webp"
+    },
+    {
+      "id": "exhibitor_210",
+      "name": "Protean International DMCC",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/protean.webp"
+    },
+    {
+      "id": "exhibitor_211",
+      "name": "YuVerse (Credit Avenue)",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yuverse_credit_avenue_.webp"
+    },
+    {
+      "id": "exhibitor_212",
+      "name": "Apogean Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "32",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/apogean.webp"
+    },
+    {
+      "id": "exhibitor_213",
+      "name": "ShellKode",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/shellkode.webp"
+    },
+    {
+      "id": "exhibitor_214",
+      "name": "Mio AI | Merrito",
+      "hall": "15",
+      "sqm": "30",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/mio.webp"
+    },
+    {
+      "id": "exhibitor_215",
+      "name": "Haptik",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/haptik.webp"
+    },
+    {
+      "id": "exhibitor_216",
+      "name": "Brandworks Technologies",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/brandwork.webp"
+    },
+    {
+      "id": "exhibitor_217",
+      "name": "Anant Raj Cloud Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "49",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/anant.webp"
+    },
+    {
+      "id": "exhibitor_218",
+      "name": "Transport Corporation of India Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tci.webp"
+    },
+    {
+      "id": "exhibitor_219",
+      "name": "Government of Meghalaya (Department of IT and Communications)",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/it_c_department.webp"
+    },
+    {
+      "id": "exhibitor_220",
+      "name": "Government of Tamil Nadu",
+      "hall": "15",
+      "sqm": "120",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/government_of_tamil_nadu.webp"
+    },
+    {
+      "id": "exhibitor_221",
+      "name": "Centre for Open Societal Systems (COSS) by IIIT-Bangalore (EkStep Foundation)",
+      "hall": "15",
+      "sqm": "120",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ekstep.webp"
+    },
+    {
+      "id": "exhibitor_222",
+      "name": "SpectraONE",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/spectra_one.webp"
+    },
+    {
+      "id": "exhibitor_223",
+      "name": "Zoho",
+      "hall": "15",
+      "sqm": "108",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zoho.webp"
+    },
+    {
+      "id": "exhibitor_224",
+      "name": "Concret.io",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/concret.webp"
+    },
+    {
+      "id": "exhibitor_225",
+      "name": "Digital India Bhashini Division",
+      "hall": "15",
+      "sqm": "176",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bhashini.webp"
+    },
+    {
+      "id": "exhibitor_226",
+      "name": "Vicharak Computers Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vicharak_computers_pvt_ltd.webp"
+    },
+    {
+      "id": "exhibitor_227",
+      "name": "Beyond Codes",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/beyond_codes.webp"
+    },
+    {
+      "id": "exhibitor_228",
+      "name": "Government of Rajasthan (Department of IT & Communications)",
+      "hall": "15",
+      "sqm": "133",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/doitc.webp"
+    },
+    {
+      "id": "exhibitor_229",
+      "name": "Simplismart",
+      "hall": "15",
+      "sqm": "42",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/simplismart.webp"
+    },
+    {
+      "id": "exhibitor_230",
+      "name": "The Cutting Edge Group",
+      "hall": "15",
+      "sqm": "30",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cutting_edge.webp"
+    },
+    {
+      "id": "exhibitor_231",
+      "name": "ZingHR (CNERGYIS INFOTECH INDIA Pvt. Ltd.)",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zing_hr.webp"
+    },
+    {
+      "id": "exhibitor_232",
+      "name": "ALIMCO (Artificial Limbs Manufacturing Corporation Of India)",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/alimco.webp"
+    },
+    {
+      "id": "exhibitor_233",
+      "name": "R Process",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rprocess.webp"
+    },
+    {
+      "id": "exhibitor_234",
+      "name": "GitHub",
+      "hall": "15",
+      "sqm": "49",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/git.webp"
+    },
+    {
+      "id": "exhibitor_235",
+      "name": "People Prime",
+      "hall": "15",
+      "sqm": "20",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/people_prime.webp"
+    },
+    {
+      "id": "exhibitor_236",
+      "name": "Vivekananda Global University, Jaipur",
+      "hall": "15",
+      "sqm": "55",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vivekananda_global_university_jaipur.webp"
+    },
+    {
+      "id": "exhibitor_237",
+      "name": "Karmayogi Bharat (Department of Personnel and Training)",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/karmyogi_bharat_.webp"
+    },
+    {
+      "id": "exhibitor_238",
+      "name": "Delhi Metro Corporation",
+      "hall": "15",
+      "sqm": "35",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/metro.webp"
+    },
+    {
+      "id": "exhibitor_239",
+      "name": "Government of Punjab (Information & Communication Tech Corp Ltd.)",
+      "hall": "15",
+      "sqm": "120",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/punjab_infotech.webp"
+    },
+    {
+      "id": "exhibitor_240",
+      "name": "Ishan Technologies",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ishan_technologies.webp"
+    },
+    {
+      "id": "exhibitor_241",
+      "name": "Suronex and Zero Forg",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/suronex.webp"
+    },
+    {
+      "id": "exhibitor_242",
+      "name": "TrueFan AI",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/truefan_ai.webp"
+    },
+    {
+      "id": "exhibitor_243",
+      "name": "Aiwo Limited",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aiwo.webp"
+    },
+    {
+      "id": "exhibitor_244",
+      "name": "Blockchain For Impact",
+      "hall": "15",
+      "sqm": "136",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/blockchain_for_impact.webp"
+    },
+    {
+      "id": "exhibitor_245",
+      "name": "Lego Group",
+      "hall": "15",
+      "sqm": "49",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/lego.webp"
+    },
+    {
+      "id": "exhibitor_246",
+      "name": "Dayananda Sagar University",
+      "hall": "15",
+      "sqm": "308",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dsu.webp"
+    },
+    {
+      "id": "exhibitor_247",
+      "name": "Government of Manipur (Department of Information Technology)",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dit_manipur.webp"
+    },
+    {
+      "id": "exhibitor_248",
+      "name": "Avinyaa EdTech (Kreativespace)",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/avinyaa_edtech_kreativespace_.webp"
+    },
+    {
+      "id": "exhibitor_249",
+      "name": "PRAMA India Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "28",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/prama_india_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_250",
+      "name": "Ripik technology Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ripik.webp"
+    },
+    {
+      "id": "exhibitor_251",
+      "name": "The STEM Practice Company",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/stem.webp"
+    },
+    {
+      "id": "exhibitor_252",
+      "name": "Integra Micro Systems",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/integra_micro_systems.webp"
+    },
+    {
+      "id": "exhibitor_253",
+      "name": "Government of Madhya Pradesh (State Electronics Development Corporation)",
+      "hall": "15",
+      "sqm": "112",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mpsedc.webp"
+    },
+    {
+      "id": "exhibitor_254",
+      "name": "IIT Kharagpur (AI4ICPS I Hub Foundation)",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iit_kharagpur_.webp"
+    },
+    {
+      "id": "exhibitor_255",
+      "name": "Bourntec Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bourntec.webp"
+    },
+    {
+      "id": "exhibitor_256",
+      "name": "Gates Foundation",
+      "hall": "15",
+      "sqm": "49",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gates_foundation.webp"
+    },
+    {
+      "id": "exhibitor_257",
+      "name": "Government of Maharashtra",
+      "hall": "15",
+      "sqm": "120",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gom.webp"
+    },
+    {
+      "id": "exhibitor_258",
+      "name": "Resecurity",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/indreni_resecurity.webp"
+    },
+    {
+      "id": "exhibitor_259",
+      "name": "State Bank of India, Mumbai",
+      "hall": "15",
+      "sqm": "120",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sbi.webp"
+    },
+    {
+      "id": "exhibitor_260",
+      "name": "Ministry of Agriculture",
+      "hall": "15",
+      "sqm": "49",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ministry_of_agriculture.webp"
+    },
+    {
+      "id": "exhibitor_261",
+      "name": "IILM University",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iilm.webp"
+    },
+    {
+      "id": "exhibitor_262",
+      "name": "Government of Goa (Department of IT & Electronics)",
+      "hall": "15",
+      "sqm": "64",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/goa.webp"
+    },
+    {
+      "id": "exhibitor_263",
+      "name": "Open AI (Lounge)",
+      "hall": "15",
+      "sqm": "156",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/open_ai_lounge_.webp"
+    },
+    {
+      "id": "exhibitor_264",
+      "name": "Tanna TechBiz AI Hardware Solution",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tanna_techbiz.webp"
+    },
+    {
+      "id": "exhibitor_265",
+      "name": "Government of Uttar Pradesh",
+      "hall": "15",
+      "sqm": "174",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/govt_of_up.webp"
+    },
+    {
+      "id": "exhibitor_266",
+      "name": "Scaler School of technology",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/scaler_school_of_technology.webp"
+    },
+    {
+      "id": "exhibitor_267",
+      "name": "E-Solutions IT Services Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/e_solutions.webp"
+    },
+    {
+      "id": "exhibitor_268",
+      "name": "Government of Chhattisgarh (State Industrial Development Corporation)",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/csidc.webp"
+    },
+    {
+      "id": "exhibitor_269",
+      "name": "LeadupUniverse - E&ICT IIT Kanpur",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/leadupuniverse.webp"
+    },
+    {
+      "id": "exhibitor_270",
+      "name": "Lovely Professional University, Punjab",
+      "hall": "15",
+      "sqm": "55",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/lpu.webp"
+    },
+    {
+      "id": "exhibitor_271",
+      "name": "FuturixAI",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/futurixai.webp"
+    },
+    {
+      "id": "exhibitor_272",
+      "name": "Ansys Software Pvt. Ltd",
+      "hall": "15",
+      "sqm": "40",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ansys.webp"
+    },
+    {
+      "id": "exhibitor_273",
+      "name": "dDriven",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/d_driven.webp"
+    },
+    {
+      "id": "exhibitor_274",
+      "name": "Indian Army",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/indian_army.webp"
+    },
+    {
+      "id": "exhibitor_275",
+      "name": "Evvolv.ai",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/evvolv.webp"
+    },
+    {
+      "id": "exhibitor_276",
+      "name": "Knight Fintech",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/knight_fintech.webp"
+    },
+    {
+      "id": "exhibitor_277",
+      "name": "Repro India Pvt Ltd",
+      "hall": "15",
+      "sqm": "30",
+      "category": "Corporate",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/repro.webp"
+    },
+    {
+      "id": "exhibitor_278",
+      "name": "Cubastion Consulting Private Limited",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cubastion.webp"
+    },
+    {
+      "id": "exhibitor_279",
+      "name": "Refroid Technologies Private Limited",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/refroid.webp"
+    },
+    {
+      "id": "exhibitor_280",
+      "name": "Amity University",
+      "hall": "15",
+      "sqm": "122",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/amity.webp"
+    },
+    {
+      "id": "exhibitor_281",
+      "name": "TCG DIGITAL SOLUTIONS PVT. LTD.",
+      "hall": "15",
+      "sqm": "54",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tcg.webp"
+    },
+    {
+      "id": "exhibitor_282",
+      "name": "Thoughtworks",
+      "hall": "15",
+      "sqm": "63",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/thoughtworks.webp"
+    },
+    {
+      "id": "exhibitor_283",
+      "name": "Ministry of Ayush",
+      "hall": "15",
+      "sqm": "28",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ministry_of_ayush.webp"
+    },
+    {
+      "id": "exhibitor_284",
+      "name": "Ministry of Earth Sciences(Indian Instiutute of Tropical Sciences)",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ministry_of_earth.webp"
+    },
+    {
+      "id": "exhibitor_285",
+      "name": "Centre for Development of Telematics (C-DOT)",
+      "hall": "15",
+      "sqm": "30",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/c_dot.webp"
+    },
+    {
+      "id": "exhibitor_286",
+      "name": "Ministry of Rural Development",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rural.webp"
+    },
+    {
+      "id": "exhibitor_287",
+      "name": "Ministry of Heavy Industries(Engineering Projects India Ltd)",
+      "hall": "15",
+      "sqm": "28",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/heavy.webp"
+    },
+    {
+      "id": "exhibitor_288",
+      "name": "Ministry of Steel",
+      "hall": "15",
+      "sqm": "80",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/steel.webp"
+    },
+    {
+      "id": "exhibitor_289",
+      "name": "Ministry of Tribal Affairs",
+      "hall": "15",
+      "sqm": "32",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tribal.webp"
+    },
+    {
+      "id": "exhibitor_290",
+      "name": "DRDO",
+      "hall": "15",
+      "sqm": "50",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/drdo.webp"
+    },
+    {
+      "id": "exhibitor_291",
+      "name": "Department of Technical education, Govt of NCT of Delhi",
+      "hall": "15",
+      "sqm": "54",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nct_delhi.webp"
+    },
+    {
+      "id": "exhibitor_292",
+      "name": "Government of Tripura (Directorate of IT)",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tripura.webp"
+    },
+    {
+      "id": "exhibitor_293",
+      "name": "Government of Assam (Department of IT)",
+      "hall": "15",
+      "sqm": "70",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/assam.webp"
+    },
+    {
+      "id": "exhibitor_294",
+      "name": "Government of Kerala (State IT Mission)",
+      "hall": "15",
+      "sqm": "117",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kerala.webp"
+    },
+    {
+      "id": "exhibitor_295",
+      "name": "National Payments Corporation of India (NPCI)",
+      "hall": "15",
+      "sqm": "179",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ncpi.webp"
+    },
+    {
+      "id": "exhibitor_296",
+      "name": "Trestle Labs Private Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/trestle.webp"
+    },
+    {
+      "id": "exhibitor_297",
+      "name": "BUSINESSNEXT",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bnext.webp"
+    },
+    {
+      "id": "exhibitor_298",
+      "name": "Meesho",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/meesho.webp"
+    },
+    {
+      "id": "exhibitor_299",
+      "name": "Kavion",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/n_kor.webp"
+    },
+    {
+      "id": "exhibitor_300",
+      "name": "AdaniConnex",
+      "hall": "15",
+      "sqm": "112",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/adani.webp"
+    },
+    {
+      "id": "exhibitor_301",
+      "name": "Josh Talks",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/Josh.webp"
+    },
+    {
+      "id": "exhibitor_302",
+      "name": "IIT Gandhinagar",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/IIT-gandhinagar.webp"
+    },
+    {
+      "id": "exhibitor_303",
+      "name": "ElevenLabs",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/eleven.webp"
+    },
+    {
+      "id": "exhibitor_304",
+      "name": "Ministry of Health and Family affairs",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/health-welfare.webp"
+    },
+    {
+      "id": "exhibitor_305",
+      "name": "ERA EDUCATION TRUST",
+      "hall": "15",
+      "sqm": "152",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/era.webp"
+    },
+    {
+      "id": "exhibitor_306",
+      "name": "Aventisia Technologies Private Limited",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aventisia.webp"
+    },
+    {
+      "id": "exhibitor_307",
+      "name": "Africa AI Village (Qhala Trust)",
+      "hall": "15",
+      "sqm": "308",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/africa_ai.webp"
+    },
+    {
+      "id": "exhibitor_308",
+      "name": "INDO GERMAN CHAMBER OF COMMERCE",
+      "hall": "15",
+      "sqm": "221",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/indo_german_chamber.webp"
+    },
+    {
+      "id": "exhibitor_309",
+      "name": "Central Bureau of Communication (MIB)",
+      "hall": "15",
+      "sqm": "493",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cbc.webp"
+    },
+    {
+      "id": "exhibitor_310",
+      "name": "Pitch my Venture (IGHC Limited )",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pitch_my_venture_ighc_limited_.webp"
+    },
+    {
+      "id": "exhibitor_311",
+      "name": "MobilePe Fintech Private Limited",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mobilepe.webp"
+    },
+    {
+      "id": "exhibitor_312",
+      "name": "ActionSync",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/action.webp"
+    },
+    {
+      "id": "exhibitor_313",
+      "name": "Prisma AI",
+      "hall": "15",
+      "sqm": "176",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/prisma_ai.webp"
+    },
+    {
+      "id": "exhibitor_314",
+      "name": "AKIS TECH. LIMITED (Russian Pavilion - Russoft)",
+      "hall": "15",
+      "sqm": "72",
+      "category": "Country Pavilion",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/akis.webp"
+    },
+    {
+      "id": "exhibitor_315",
+      "name": "Government of Republic of Serbia",
+      "hall": "15",
+      "sqm": "78",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/serbia.webp"
+    },
+    {
+      "id": "exhibitor_316",
+      "name": "Nigeria AI Collective",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nigeria_ai_collective.webp"
+    },
+    {
+      "id": "exhibitor_317",
+      "name": "VIRSA.AI",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/virsa_ai.webp"
+    },
+    {
+      "id": "exhibitor_318",
+      "name": "Varahi Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/varahi_technologies_pvt_ltd.webp"
+    },
+    {
+      "id": "exhibitor_319",
+      "name": "MIND WEBS VENTURES",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mind_webs_ventures.webp"
+    },
+    {
+      "id": "exhibitor_320",
+      "name": "Infutrix",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/infutrix.webp"
+    },
+    {
+      "id": "exhibitor_321",
+      "name": "NeuralFactoryAI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neuralfactoryai.webp"
+    },
+    {
+      "id": "exhibitor_322",
+      "name": "Niral Networks",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/niral_networks.webp"
+    },
+    {
+      "id": "exhibitor_323",
+      "name": "Recapi AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/recapi_ai.webp"
+    },
+    {
+      "id": "exhibitor_324",
+      "name": "NeenOpal Intelligent Solutions Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neenopal.webp"
+    },
+    {
+      "id": "exhibitor_325",
+      "name": "ClarityX Analytics Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/clarityx.webp"
+    },
+    {
+      "id": "exhibitor_326",
+      "name": "Visotonics",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/visotonics.webp"
+    },
+    {
+      "id": "exhibitor_327",
+      "name": "Atinav Idea Lab Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/atinav.webp"
+    },
+    {
+      "id": "exhibitor_328",
+      "name": "Neosapien",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neosapien.webp"
+    },
+    {
+      "id": "exhibitor_329",
+      "name": "Wavenet Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/wavenet_.webp"
+    },
+    {
+      "id": "exhibitor_330",
+      "name": "Vaani Research Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vaani.webp"
+    },
+    {
+      "id": "exhibitor_331",
+      "name": "Chimple",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/chimple_learning.webp"
+    },
+    {
+      "id": "exhibitor_332",
+      "name": "GMEET ELECTRONICS PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gmeet.webp"
+    },
+    {
+      "id": "exhibitor_333",
+      "name": "Elluminati Ventures Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/elluminati.webp"
+    },
+    {
+      "id": "exhibitor_334",
+      "name": "Prajvis",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/prajvis.webp"
+    },
+    {
+      "id": "exhibitor_335",
+      "name": "Endee Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/endee_labs.webp"
+    },
+    {
+      "id": "exhibitor_336",
+      "name": "Zoven AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zoven_ai.webp"
+    },
+    {
+      "id": "exhibitor_337",
+      "name": "YogiFi by Wellnesys Technologies",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yogifi.webp"
+    },
+    {
+      "id": "exhibitor_338",
+      "name": "Boaient Technology Solutions Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/boaient.webp"
+    },
+    {
+      "id": "exhibitor_339",
+      "name": "Unified AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/unified_ai.webp"
+    },
+    {
+      "id": "exhibitor_340",
+      "name": "CodeAstra",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/codeastra.webp"
+    },
+    {
+      "id": "exhibitor_341",
+      "name": "MadScientist",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/madscientist.webp"
+    },
+    {
+      "id": "exhibitor_342",
+      "name": "Hyprbots Systems Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hyprbots.webp"
+    },
+    {
+      "id": "exhibitor_343",
+      "name": "TeachBetter.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/teachbetter.webp"
+    },
+    {
+      "id": "exhibitor_344",
+      "name": "Fuski Ventures Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/fuski.webp"
+    },
+    {
+      "id": "exhibitor_345",
+      "name": "Transformer Neural Scan Quest Pvt Ltd (TNSQAI)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tnsqai.webp"
+    },
+    {
+      "id": "exhibitor_346",
+      "name": "Carnot Research Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/carnot.webp"
+    },
+    {
+      "id": "exhibitor_347",
+      "name": "Avalon Tech Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/avalon.webp"
+    },
+    {
+      "id": "exhibitor_348",
+      "name": "AI Planet",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ai_planet.webp"
+    },
+    {
+      "id": "exhibitor_349",
+      "name": "Think Evolve Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/think_evolve_labs.webp"
+    },
+    {
+      "id": "exhibitor_350",
+      "name": "Hunar.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hunar_ai.webp"
+    },
+    {
+      "id": "exhibitor_351",
+      "name": "Bolna AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bolna_ai.webp"
+    },
+    {
+      "id": "exhibitor_352",
+      "name": "ARMS 4 AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/arms_4_ai.webp"
+    },
+    {
+      "id": "exhibitor_353",
+      "name": "Gignaati ( Smartians AI Private Limited)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gignaati.webp"
+    },
+    {
+      "id": "exhibitor_354",
+      "name": "Carver Agents",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/carver_agents.webp"
+    },
+    {
+      "id": "exhibitor_355",
+      "name": "Monkhub Innovations Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/monkhub.webp"
+    },
+    {
+      "id": "exhibitor_356",
+      "name": "TanPrish Dynamics Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tanprish.webp"
+    },
+    {
+      "id": "exhibitor_357",
+      "name": "PVANALYTICA INNOVATIONS PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pvanalytica.webp"
+    },
+    {
+      "id": "exhibitor_358",
+      "name": "Edza AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/edza_ai.webp"
+    },
+    {
+      "id": "exhibitor_359",
+      "name": "ArthaVedh Consulting Pvt Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/arthavedh.webp"
+    },
+    {
+      "id": "exhibitor_360",
+      "name": "ZENERATIVE MINDS PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zenerative.webp"
+    },
+    {
+      "id": "exhibitor_361",
+      "name": "karemind Iscripts private limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/karemind.webp"
+    },
+    {
+      "id": "exhibitor_362",
+      "name": "Weam AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/weam_ai.webp"
+    },
+    {
+      "id": "exhibitor_363",
+      "name": "RLAI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rlai.webp"
+    },
+    {
+      "id": "exhibitor_364",
+      "name": "Mega Impacts",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mega_impacts.webp"
+    },
+    {
+      "id": "exhibitor_365",
+      "name": "Mimasa Ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mimasa_ai.webp"
+    },
+    {
+      "id": "exhibitor_366",
+      "name": "ZIPP.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zipp_ai.webp"
+    },
+    {
+      "id": "exhibitor_367",
+      "name": "Atomo Innovation Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/atomo.webp"
+    },
+    {
+      "id": "exhibitor_368",
+      "name": "AthenaAgent",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/athenaagent.webp"
+    },
+    {
+      "id": "exhibitor_369",
+      "name": "Opsight AI Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/opsight.webp"
+    },
+    {
+      "id": "exhibitor_370",
+      "name": "Vidh Labs Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vidh_labs.webp"
+    },
+    {
+      "id": "exhibitor_371",
+      "name": "EdgeFleet.Ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/edgefleet_ai.webp"
+    },
+    {
+      "id": "exhibitor_372",
+      "name": "TM2Space Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tm2space.webp"
+    },
+    {
+      "id": "exhibitor_373",
+      "name": "CYRAN AI Solutions Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cyran.webp"
+    },
+    {
+      "id": "exhibitor_374",
+      "name": "Kenome (Brand of Qarbona Solutions Pvt. Ltd.)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kenome.webp"
+    },
+    {
+      "id": "exhibitor_375",
+      "name": "Apisdor Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/apisdor.webp"
+    },
+    {
+      "id": "exhibitor_376",
+      "name": "Yolearn.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yolearn_ai.webp"
+    },
+    {
+      "id": "exhibitor_377",
+      "name": "Bharat1.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bharat1_ai.webp"
+    },
+    {
+      "id": "exhibitor_378",
+      "name": "Empaithy",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/empaithy.webp"
+    },
+    {
+      "id": "exhibitor_379",
+      "name": "Trench Security",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/trench_security.webp"
+    },
+    {
+      "id": "exhibitor_380",
+      "name": "Pathania Svarix Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pathania_svarix.webp"
+    },
+    {
+      "id": "exhibitor_381",
+      "name": "Getgabs LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/getgabs_llp.webp"
+    },
+    {
+      "id": "exhibitor_382",
+      "name": "Buddy Mentor",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/buddy_mentor.webp"
+    },
+    {
+      "id": "exhibitor_383",
+      "name": "Aalekh AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aalekh_ai.webp"
+    },
+    {
+      "id": "exhibitor_384",
+      "name": "Rasyn Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rasyn_.webp"
+    },
+    {
+      "id": "exhibitor_385",
+      "name": "FinStackk",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/finstackk.webp"
+    },
+    {
+      "id": "exhibitor_386",
+      "name": "Webnyay AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/webnyay_ai.webp"
+    },
+    {
+      "id": "exhibitor_387",
+      "name": "SEORCE",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/seorce.webp"
+    },
+    {
+      "id": "exhibitor_388",
+      "name": "Brix AI Technology LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/brix.webp"
+    },
+    {
+      "id": "exhibitor_389",
+      "name": "amara info sec",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/amara.webp"
+    },
+    {
+      "id": "exhibitor_390",
+      "name": "Shodh.ai",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/shodh.webp"
+    },
+    {
+      "id": "exhibitor_391",
+      "name": "NCPEDP",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Research",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ncpedp.webp"
+    },
+    {
+      "id": "exhibitor_392",
+      "name": "EnxtAI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/enxtai.webp"
+    },
+    {
+      "id": "exhibitor_393",
+      "name": "ZOOOX",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zooox.webp"
+    },
+    {
+      "id": "exhibitor_394",
+      "name": "Intellexia Tech Private Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intellexia.webp"
+    },
+    {
+      "id": "exhibitor_395",
+      "name": "ProvisCommerce.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/proviscommerce_ai.webp"
+    },
+    {
+      "id": "exhibitor_396",
+      "name": "TESTPAN INDIA PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/testpan.webp"
+    },
+    {
+      "id": "exhibitor_397",
+      "name": "Manthana.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/manthana_ai.webp"
+    },
+    {
+      "id": "exhibitor_398",
+      "name": "Ethana.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ethana_ai.webp"
+    },
+    {
+      "id": "exhibitor_399",
+      "name": "gts.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gts_ai.webp"
+    },
+    {
+      "id": "exhibitor_400",
+      "name": "SECUAI SOLUTIONS PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "15",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/secuai.webp"
+    },
+    {
+      "id": "exhibitor_401",
+      "name": "Bluemachines(Apna.com)",
+      "hall": "15",
+      "sqm": "114",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bluemachines.webp"
+    },
+    {
+      "id": "exhibitor_402",
+      "name": "Proximal Cloud (Proximal Cloud Private Limited)",
+      "hall": "15",
+      "sqm": "24",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/proximal.webp"
+    },
+    {
+      "id": "exhibitor_403",
+      "name": "Enterprise Estonia",
+      "hall": "15",
+      "sqm": "28",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/eas.webp"
+    },
+    {
+      "id": "exhibitor_404",
+      "name": "Piramal Foundation",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/piramal_foundation.webp"
+    },
+    {
+      "id": "exhibitor_405",
+      "name": "I2K2 Networks Private Limited",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/i2k2.webp"
+    },
+    {
+      "id": "exhibitor_406",
+      "name": "Apisod Technologies Private Limited",
+      "hall": "15",
+      "sqm": "12",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/apisod_.webp"
+    },
+    {
+      "id": "exhibitor_407",
+      "name": "Meganet Technologies Global Limited",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/meganet.webp"
+    },
+    {
+      "id": "exhibitor_408",
+      "name": "Meerut Institute of Emgineering & Technology",
+      "hall": "15",
+      "sqm": "56",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/meerut.webp"
+    },
+    {
+      "id": "exhibitor_409",
+      "name": "Invincible Ocean",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/invincible_ocean.webp"
+    },
+    {
+      "id": "exhibitor_410",
+      "name": "Whiz Meeting India Private Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/whiz.webp"
+    },
+    {
+      "id": "exhibitor_411",
+      "name": "Ernst & Young LLP (EY)",
+      "hall": "15",
+      "sqm": "304",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/emst.webp"
+    },
+    {
+      "id": "exhibitor_412",
+      "name": "AeonX Digital",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aeonx_digital.webp"
+    },
+    {
+      "id": "exhibitor_413",
+      "name": "Zypl Holding Ltd",
+      "hall": "15",
+      "sqm": "20",
+      "category": "Corporate",
+      "subCategory": "International",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zypl_holding_ltd.webp"
+    },
+    {
+      "id": "exhibitor_414",
+      "name": "Intellicloud Solutions Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intellicloud.webp"
+    },
+    {
+      "id": "exhibitor_415",
+      "name": "Manentia AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/manentia_ai.webp"
+    },
+    {
+      "id": "exhibitor_416",
+      "name": "DGTLmart Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dgtlmart.webp"
+    },
+    {
+      "id": "exhibitor_417",
+      "name": "Northstarz AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/northstarz_ai.webp"
+    },
+    {
+      "id": "exhibitor_418",
+      "name": "REAN CARE FOUNDATION (INDIA)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rean.webp"
+    },
+    {
+      "id": "exhibitor_419",
+      "name": "SDLC Corp",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sdlc_corp.webp"
+    },
+    {
+      "id": "exhibitor_420",
+      "name": "Ledsak",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ledsak.webp"
+    },
+    {
+      "id": "exhibitor_421",
+      "name": "Thenoah.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/thenoah_ai.webp"
+    },
+    {
+      "id": "exhibitor_422",
+      "name": "scanO",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/scano.webp"
+    },
+    {
+      "id": "exhibitor_423",
+      "name": "Aviara Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aviara_labs.webp"
+    },
+    {
+      "id": "exhibitor_424",
+      "name": "Spharaka Networks Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/spharaka_.webp"
+    },
+    {
+      "id": "exhibitor_425",
+      "name": "Novyte Materials",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/novyte_materials.webp"
+    },
+    {
+      "id": "exhibitor_426",
+      "name": "Tecnod8.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tecnod8_ai.webp"
+    },
+    {
+      "id": "exhibitor_427",
+      "name": "9AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/9ai.webp"
+    },
+    {
+      "id": "exhibitor_428",
+      "name": "IKTARA Data Sciences",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iktara.webp"
+    },
+    {
+      "id": "exhibitor_429",
+      "name": "S4AI Technologies LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/s4ai.webp"
+    },
+    {
+      "id": "exhibitor_430",
+      "name": "OnFinance AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/onfinance_ai.webp"
+    },
+    {
+      "id": "exhibitor_431",
+      "name": "CIVET Global Technology Services Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/civet.webp"
+    },
+    {
+      "id": "exhibitor_432",
+      "name": "Tranquil AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tranquil_ai.webp"
+    },
+    {
+      "id": "exhibitor_433",
+      "name": "Repliant AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/repliant_ai.webp"
+    },
+    {
+      "id": "exhibitor_434",
+      "name": "NavigatingX",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/navigatingx.webp"
+    },
+    {
+      "id": "exhibitor_435",
+      "name": "Techshlok Research and Development Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/techshlok.webp"
+    },
+    {
+      "id": "exhibitor_436",
+      "name": "Pharynx AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pharynx_ai.webp"
+    },
+    {
+      "id": "exhibitor_437",
+      "name": "Intervuebox",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intervuebox.webp"
+    },
+    {
+      "id": "exhibitor_438",
+      "name": "Miraista",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/miraista.webp"
+    },
+    {
+      "id": "exhibitor_439",
+      "name": "AutonomOps AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/autonomops_ai.webp"
+    },
+    {
+      "id": "exhibitor_440",
+      "name": "Altiv.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/altiv_ai.webp"
+    },
+    {
+      "id": "exhibitor_441",
+      "name": "Tacodi Electronics Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tacodi.webp"
+    },
+    {
+      "id": "exhibitor_442",
+      "name": "SETV Healthcare Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/setv.webp"
+    },
+    {
+      "id": "exhibitor_443",
+      "name": "Power Grid Corporation of India Limited",
+      "hall": "15",
+      "sqm": "119",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/power_grid_corporation_of_india_limited.webp"
+    },
+    {
+      "id": "exhibitor_444",
+      "name": "Electronics Corporation Of Tamil Nadu Limited",
+      "hall": "15",
+      "sqm": "120",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/electronics_corporation_of_tamil_nadu_limited.webp"
+    },
+    {
+      "id": "exhibitor_445",
+      "name": "NIDP Developers Private Limited",
+      "hall": "15",
+      "sqm": "195",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nidp_developers_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_446",
+      "name": "Yo Doozy! Media Private Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yo_doozy_media_private_limited.webp"
+    },
+    {
+      "id": "exhibitor_447",
+      "name": "I-Hub For Robotics And Autonomous Systems",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/i_hub_for_robotics_and_autonomous_systems.webp"
+    },
+    {
+      "id": "exhibitor_448",
+      "name": "International Institute Of Information(Bangalore)",
+      "hall": "15",
+      "sqm": "65",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iiit_bangalore.webp"
+    },
+    {
+      "id": "exhibitor_449",
+      "name": "Redington Limited",
+      "hall": "15",
+      "sqm": "200",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/redington.webp"
+    },
+    {
+      "id": "exhibitor_450",
+      "name": "ESC ( Electronic Software Export Promotion Council )",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Public Sector Units",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/esc.webp"
+    },
+    {
+      "id": "exhibitor_451",
+      "name": "The International Solar Alliance (ISA)",
+      "hall": "15",
+      "sqm": "158",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/isa.webp"
+    },
+    {
+      "id": "exhibitor_452",
+      "name": "The LNM Institute of Information Technology, Jaipur",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Academia",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/lnmiit.webp"
+    },
+    {
+      "id": "exhibitor_453",
+      "name": "Paytm",
+      "hall": "15",
+      "sqm": "36",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/paytm.webp"
+    },
+    {
+      "id": "exhibitor_454",
+      "name": "Lenovo",
+      "hall": "15",
+      "sqm": "238",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/lenovo.webp"
+    },
+    {
+      "id": "exhibitor_455",
+      "name": "Eros Innovation",
+      "hall": "15",
+      "sqm": "96",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/eros.webp"
+    },
+    {
+      "id": "exhibitor_456",
+      "name": "Velankani Information Systems Ltd.",
+      "hall": "15",
+      "sqm": "42",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/velankani.webp"
+    },
+    {
+      "id": "exhibitor_457",
+      "name": "Voxot Solutions Pvt. Ltd. (Pragyaa.ai)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/pragyaa_ai.webp"
+    },
+    {
+      "id": "exhibitor_458",
+      "name": "Sreyas Software Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sreyas.webp"
+    },
+    {
+      "id": "exhibitor_459",
+      "name": "Spotless AI Robotics Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/spotless.webp"
+    },
+    {
+      "id": "exhibitor_460",
+      "name": "QuaaPeak Tech Pvt. Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/quaapeak.webp"
+    },
+    {
+      "id": "exhibitor_461",
+      "name": "Miimansa AI Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/miimansa.webp"
+    },
+    {
+      "id": "exhibitor_462",
+      "name": "Manodayam Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/manodayam.webp"
+    },
+    {
+      "id": "exhibitor_463",
+      "name": "Kubar Protocol Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kubar.webp"
+    },
+    {
+      "id": "exhibitor_464",
+      "name": "Inweon IT Innovations Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/inweon.webp"
+    },
+    {
+      "id": "exhibitor_465",
+      "name": "INTELIQUANT AI Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/inteliquant.webp"
+    },
+    {
+      "id": "exhibitor_466",
+      "name": "Hanu AI Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hanu.webp"
+    },
+    {
+      "id": "exhibitor_467",
+      "name": "Farmoid Robotech Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/farmoid.webp"
+    },
+    {
+      "id": "exhibitor_468",
+      "name": "DSeT Consulting Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dset.webp"
+    },
+    {
+      "id": "exhibitor_469",
+      "name": "Devick Biz Solutions Pvt. Ltd. (OneNDF)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/onendf.webp"
+    },
+    {
+      "id": "exhibitor_470",
+      "name": "Daakia Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/daakia.webp"
+    },
+    {
+      "id": "exhibitor_471",
+      "name": "Ashaa Technology Solutions Pvt. Ltd. (Ashaa.AI)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ashaa.webp"
+    },
+    {
+      "id": "exhibitor_472",
+      "name": "Agnistoka Digital Universe Tech Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/agnistoka_.webp"
+    },
+    {
+      "id": "exhibitor_473",
+      "name": "YellowSense Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yellowsense.webp"
+    },
+    {
+      "id": "exhibitor_474",
+      "name": "Voptimaise Climate Tech Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/v_optimaise.webp"
+    },
+    {
+      "id": "exhibitor_475",
+      "name": "Evigway Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/evigway.webp"
+    },
+    {
+      "id": "exhibitor_476",
+      "name": "Testaing Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/testaing.webp"
+    },
+    {
+      "id": "exhibitor_477",
+      "name": "Talentspotify Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/talentspotify.webp"
+    },
+    {
+      "id": "exhibitor_478",
+      "name": "Predulive Innovations Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/predulive.webp"
+    },
+    {
+      "id": "exhibitor_479",
+      "name": "Cgreen",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cgreen.webp"
+    },
+    {
+      "id": "exhibitor_480",
+      "name": "Inflynx Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/inflynx_technologies_pvt_ltd_.webp"
+    },
+    {
+      "id": "exhibitor_481",
+      "name": "Esniff Devices Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/esniff_.webp"
+    },
+    {
+      "id": "exhibitor_482",
+      "name": "Brenin Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/brenin.webp"
+    },
+    {
+      "id": "exhibitor_483",
+      "name": "Dotnitron Technologies",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dotnitron.webp"
+    },
+    {
+      "id": "exhibitor_484",
+      "name": "MyGST Refund",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mygst.webp"
+    },
+    {
+      "id": "exhibitor_485",
+      "name": "Quaapton AI Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/quaapton_.webp"
+    },
+    {
+      "id": "exhibitor_486",
+      "name": "VOICERAcx",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/voicera.webp"
+    },
+    {
+      "id": "exhibitor_487",
+      "name": "Macgence AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/macgence_ai.webp"
+    },
+    {
+      "id": "exhibitor_488",
+      "name": "SetMyCart",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/setmycart.webp"
+    },
+    {
+      "id": "exhibitor_489",
+      "name": "Qubrid AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/qubrid_ai.webp"
+    },
+    {
+      "id": "exhibitor_490",
+      "name": "Yugyog",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yugyog.webp"
+    },
+    {
+      "id": "exhibitor_491",
+      "name": "KIREAP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kireap.webp"
+    },
+    {
+      "id": "exhibitor_492",
+      "name": "Aminuteman technologies",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aminuteman.webp"
+    },
+    {
+      "id": "exhibitor_493",
+      "name": "Birchlogic",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/birchlogic.webp"
+    },
+    {
+      "id": "exhibitor_494",
+      "name": "Aekyam- AI Orchestration Platform",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aekyam.webp"
+    },
+    {
+      "id": "exhibitor_495",
+      "name": "CODETANTRA",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/codetantra.webp"
+    },
+    {
+      "id": "exhibitor_496",
+      "name": "Computer Shiksha",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/computer_shiksha.webp"
+    },
+    {
+      "id": "exhibitor_497",
+      "name": "CarryYourAI Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/carryyourai.webp"
+    },
+    {
+      "id": "exhibitor_498",
+      "name": "ClassMap",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/classmap.webp"
+    },
+    {
+      "id": "exhibitor_499",
+      "name": "WheelsEye",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/wheelseye.webp"
+    },
+    {
+      "id": "exhibitor_500",
+      "name": "Brahmaa.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/brahmaa_ai.webp"
+    },
+    {
+      "id": "exhibitor_501",
+      "name": "qRaptor",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/qraptor.webp"
+    },
+    {
+      "id": "exhibitor_502",
+      "name": "Vision Digital India",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vision_digital_india.webp"
+    },
+    {
+      "id": "exhibitor_503",
+      "name": "Delta4 Infotech Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/delta4.webp"
+    },
+    {
+      "id": "exhibitor_504",
+      "name": "TripGain",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tripgain.webp"
+    },
+    {
+      "id": "exhibitor_505",
+      "name": "MySelllerCentral",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/MySelllerCentral.webp"
+    },
+    {
+      "id": "exhibitor_506",
+      "name": "Leverage",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/leverage.webp"
+    },
+    {
+      "id": "exhibitor_507",
+      "name": "KARKAAI TECHNOLOGIES PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/karkaai.webp"
+    },
+    {
+      "id": "exhibitor_508",
+      "name": "Trndx Technologies LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/trndx.webp"
+    },
+    {
+      "id": "exhibitor_509",
+      "name": "BHARATADEX PLATFORM PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bharatadex.webp"
+    },
+    {
+      "id": "exhibitor_510",
+      "name": "Tylect Technologies",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tylect.webp"
+    },
+    {
+      "id": "exhibitor_511",
+      "name": "Molecule AI Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/molecule.webp"
+    },
+    {
+      "id": "exhibitor_512",
+      "name": "Unbox Industry",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/unbox.webp"
+    },
+    {
+      "id": "exhibitor_513",
+      "name": "TatvaCare",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tatvacare.webp"
+    },
+    {
+      "id": "exhibitor_514",
+      "name": "Yarnit",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/yarnit.webp"
+    },
+    {
+      "id": "exhibitor_515",
+      "name": "SKYE AIR MOBILITY PVT LTD",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/skye_air.webp"
+    },
+    {
+      "id": "exhibitor_516",
+      "name": "SoulEra",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/soulera.webp"
+    },
+    {
+      "id": "exhibitor_517",
+      "name": "Curate Data Analytics LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/curate.webp"
+    },
+    {
+      "id": "exhibitor_518",
+      "name": "Propio",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/propio.webp"
+    },
+    {
+      "id": "exhibitor_519",
+      "name": "Deepmindz Innovations",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/deepmindz.webp"
+    },
+    {
+      "id": "exhibitor_520",
+      "name": "Procol",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/procol.webp"
+    },
+    {
+      "id": "exhibitor_521",
+      "name": "Appzlogic Mobility Solutions Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/appzlogic.webp"
+    },
+    {
+      "id": "exhibitor_522",
+      "name": "Data Science Wizards Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/data_science_wizards_pvt_ltd.webp"
+    },
+    {
+      "id": "exhibitor_523",
+      "name": "GramIQ",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gramiq.webp"
+    },
+    {
+      "id": "exhibitor_524",
+      "name": "RationalGO",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/rationalgo.webp"
+    },
+    {
+      "id": "exhibitor_525",
+      "name": "XenReality",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/xenreality.webp"
+    },
+    {
+      "id": "exhibitor_526",
+      "name": "ZipNom",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zipnom.webp"
+    },
+    {
+      "id": "exhibitor_527",
+      "name": "VITT AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vitt_ai.webp"
+    },
+    {
+      "id": "exhibitor_528",
+      "name": "Ulai (Sashakti Ventures Pvt Ltd)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ulai.webp"
+    },
+    {
+      "id": "exhibitor_529",
+      "name": "Assessli",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/assessli.webp"
+    },
+    {
+      "id": "exhibitor_530",
+      "name": "Prodloop Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/prodloop_.webp"
+    },
+    {
+      "id": "exhibitor_531",
+      "name": "EmpathIQ Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/empathiq.webp"
+    },
+    {
+      "id": "exhibitor_532",
+      "name": "CraftifAI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/craftifai.webp"
+    },
+    {
+      "id": "exhibitor_533",
+      "name": "Intelekt AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/intelekt_ai.webp"
+    },
+    {
+      "id": "exhibitor_534",
+      "name": "CyberUltron Consulting Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cyberultron.webp"
+    },
+    {
+      "id": "exhibitor_535",
+      "name": "Atsuya Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/atsuya.webp"
+    },
+    {
+      "id": "exhibitor_536",
+      "name": "Kokumi Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kokumi.webp"
+    },
+    {
+      "id": "exhibitor_537",
+      "name": "Osto Cybersecurity",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/osto.webp"
+    },
+    {
+      "id": "exhibitor_538",
+      "name": "Vomyra AI Solutions Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vomyra_ai.webp"
+    },
+    {
+      "id": "exhibitor_539",
+      "name": "CURLSEK AI TECHNOLOGIES PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/curlsek_ai.webp"
+    },
+    {
+      "id": "exhibitor_540",
+      "name": "Optywise AI Solutions",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/optywise_ai_solutions.webp"
+    },
+    {
+      "id": "exhibitor_541",
+      "name": "Mark II",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mark_ii.webp"
+    },
+    {
+      "id": "exhibitor_542",
+      "name": "Orange Virtual Global Solutions Pvt. Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/orange_virtual_global_solutions_pvt_ltd.webp"
+    },
+    {
+      "id": "exhibitor_543",
+      "name": "Syncious Systems Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/syncious.webp"
+    },
+    {
+      "id": "exhibitor_544",
+      "name": "Neural Defend",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neural_defend.webp"
+    },
+    {
+      "id": "exhibitor_545",
+      "name": "The Fashion OS - Powered by Lal10",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/the_fashion_os.webp"
+    },
+    {
+      "id": "exhibitor_546",
+      "name": "HawkAItrack Technologies LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hawkai.webp"
+    },
+    {
+      "id": "exhibitor_547",
+      "name": "Vibencode Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vibencode.webp"
+    },
+    {
+      "id": "exhibitor_548",
+      "name": "FriendsLearn Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/friendslearn.webp"
+    },
+    {
+      "id": "exhibitor_549",
+      "name": "BuzzClan India",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/buzzclan_india.webp"
+    },
+    {
+      "id": "exhibitor_550",
+      "name": "GrowQR Agentic AI (GrowQR Private Limited)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/growqr.webp"
+    },
+    {
+      "id": "exhibitor_551",
+      "name": "Daten & Wissen Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/daten_wisse.webp"
+    },
+    {
+      "id": "exhibitor_552",
+      "name": "Kriyam.ai (GEOGO)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kriyam_ai_.webp"
+    },
+    {
+      "id": "exhibitor_553",
+      "name": "Embedr",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/embedr.webp"
+    },
+    {
+      "id": "exhibitor_554",
+      "name": "TensorGo Software Pvt Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tensorgo.webp"
+    },
+    {
+      "id": "exhibitor_555",
+      "name": "Izzki Tech Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/izzki_tech.webp"
+    },
+    {
+      "id": "exhibitor_556",
+      "name": "Health Gennie",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/health_gennie.webp"
+    },
+    {
+      "id": "exhibitor_557",
+      "name": "OrcaSheets Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/orcasheets.webp"
+    },
+    {
+      "id": "exhibitor_558",
+      "name": "Medvolt Tech Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/medvolt.webp"
+    },
+    {
+      "id": "exhibitor_559",
+      "name": "RoadVision AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/roadvision_ai.webp"
+    },
+    {
+      "id": "exhibitor_560",
+      "name": "AutoBIQ",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/autobiq.webp"
+    },
+    {
+      "id": "exhibitor_561",
+      "name": "Skoop",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/skoop.webp"
+    },
+    {
+      "id": "exhibitor_562",
+      "name": "Ekam Internet LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ekam_.webp"
+    },
+    {
+      "id": "exhibitor_563",
+      "name": "OPC HUB India",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/opc_hub_india.webp"
+    },
+    {
+      "id": "exhibitor_564",
+      "name": "Platione Solutions Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/platione.webp"
+    },
+    {
+      "id": "exhibitor_565",
+      "name": "Felamity Technologies LLP",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/felamity.webp"
+    },
+    {
+      "id": "exhibitor_566",
+      "name": "ADHRITH AI INDIA R&D Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/adhrith.webp"
+    },
+    {
+      "id": "exhibitor_567",
+      "name": "Mira AI Think Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_568",
+      "name": "Vikrantum AI Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_569",
+      "name": "Codemate AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/codemate.webp"
+    },
+    {
+      "id": "exhibitor_570",
+      "name": "Project Genesis AI Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_571",
+      "name": "SimpliFin.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/simplifin.webp"
+    },
+    {
+      "id": "exhibitor_572",
+      "name": "Foreclose AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/foreclose.webp"
+    },
+    {
+      "id": "exhibitor_573",
+      "name": "Blackcoat Legaltech Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_574",
+      "name": "Kalvium",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/kalvium.webp"
+    },
+    {
+      "id": "exhibitor_575",
+      "name": "Modern village future innovations",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_576",
+      "name": "DeskTrack",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/desktrack.webp"
+    },
+    {
+      "id": "exhibitor_577",
+      "name": "Nxgsecure Solutions Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nxgsecure.webp"
+    },
+    {
+      "id": "exhibitor_578",
+      "name": "Thrico by PulsePlay Digital",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/thrico.webp"
+    },
+    {
+      "id": "exhibitor_579",
+      "name": "Ravit Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_580",
+      "name": "DATASAMUDRA",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/datasamudra.webp"
+    },
+    {
+      "id": "exhibitor_581",
+      "name": "CyberMitra.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/cybermitra.webp"
+    },
+    {
+      "id": "exhibitor_582",
+      "name": "EASE MY AI PVT LTD",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/easemyai.webp"
+    },
+    {
+      "id": "exhibitor_583",
+      "name": "SagurIT Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/sagur.webp"
+    },
+    {
+      "id": "exhibitor_584",
+      "name": "ManufApp",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/manufapp.webp"
+    },
+    {
+      "id": "exhibitor_585",
+      "name": "Fashdeck AI Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/fashdesk.webp"
+    },
+    {
+      "id": "exhibitor_586",
+      "name": "Acube AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/acubeai.webp"
+    },
+    {
+      "id": "exhibitor_587",
+      "name": "Koonj AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/koonjai.webp"
+    },
+    {
+      "id": "exhibitor_588",
+      "name": "Edufusion Ventures Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/edufusion.webp"
+    },
+    {
+      "id": "exhibitor_589",
+      "name": "Neurema",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_590",
+      "name": "enestock private limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/enestock.webp"
+    },
+    {
+      "id": "exhibitor_591",
+      "name": "Veritos Infosolutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/veritos.webp"
+    },
+    {
+      "id": "exhibitor_592",
+      "name": "Puch AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/puchai.webp"
+    },
+    {
+      "id": "exhibitor_593",
+      "name": "LetsAI Solutions Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/letsai.webp"
+    },
+    {
+      "id": "exhibitor_594",
+      "name": "BUWCH LIFESTYLES AND MANAGEMENT PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/buwch.webp"
+    },
+    {
+      "id": "exhibitor_595",
+      "name": "INDIAN INSTITUTE OF TECHNOLOGY JAMMU",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/iit_jammu.webp"
+    },
+    {
+      "id": "exhibitor_596",
+      "name": "Smartters",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/smartters.webp"
+    },
+    {
+      "id": "exhibitor_597",
+      "name": "Gradelab",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gradelab.webp"
+    },
+    {
+      "id": "exhibitor_598",
+      "name": "Tryzent Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/tryzent.webp"
+    },
+    {
+      "id": "exhibitor_599",
+      "name": "Zephara AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/zephara.webp"
+    },
+    {
+      "id": "exhibitor_600",
+      "name": "Curvo AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/curvo.webp"
+    },
+    {
+      "id": "exhibitor_601",
+      "name": "UnleashX",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/unleash.webp"
+    },
+    {
+      "id": "exhibitor_602",
+      "name": "Querygen",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/querygen.webp"
+    },
+    {
+      "id": "exhibitor_603",
+      "name": "GRAG AI FACTORY",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gargai.webp"
+    },
+    {
+      "id": "exhibitor_604",
+      "name": "Carer Healthcare AI Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/carer.webp"
+    },
+    {
+      "id": "exhibitor_605",
+      "name": "Katidhan Tech Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/katidhan.webp"
+    },
+    {
+      "id": "exhibitor_606",
+      "name": "Olbrain Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/olbrain.webp"
+    },
+    {
+      "id": "exhibitor_607",
+      "name": "Insigteye.Ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/insigteye.webp"
+    },
+    {
+      "id": "exhibitor_608",
+      "name": "Girikon.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/girikon.webp"
+    },
+    {
+      "id": "exhibitor_609",
+      "name": "STEMpedia",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/stempedia.webp"
+    },
+    {
+      "id": "exhibitor_610",
+      "name": "Simplita AI Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/simplita.webp"
+    },
+    {
+      "id": "exhibitor_611",
+      "name": "Hack2skill",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/h2s.webp"
+    },
+    {
+      "id": "exhibitor_612",
+      "name": "Proxgy",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/proxgy.webp"
+    },
+    {
+      "id": "exhibitor_613",
+      "name": "Antino",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/antino.webp"
+    },
+    {
+      "id": "exhibitor_614",
+      "name": "Ednectar",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ednectar.webp"
+    },
+    {
+      "id": "exhibitor_615",
+      "name": "EDREVEL",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/edrevel.webp"
+    },
+    {
+      "id": "exhibitor_616",
+      "name": "NeuralEDGE",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/neuraledge.webp"
+    },
+    {
+      "id": "exhibitor_617",
+      "name": "Ello.AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_618",
+      "name": "Quanta AI Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/quanta.webp"
+    },
+    {
+      "id": "exhibitor_619",
+      "name": "AIVEda",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/aiveda.webp"
+    },
+    {
+      "id": "exhibitor_620",
+      "name": "Techymed Ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/techymed.webp"
+    },
+    {
+      "id": "exhibitor_621",
+      "name": "STEMBOTIX",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/stembotix.webp"
+    },
+    {
+      "id": "exhibitor_622",
+      "name": "DesiCrew Solutions",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/desicrew.webp"
+    },
+    {
+      "id": "exhibitor_623",
+      "name": "Grovio AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/grovio.webp"
+    },
+    {
+      "id": "exhibitor_624",
+      "name": "Jivi AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/jivi.webp"
+    },
+    {
+      "id": "exhibitor_625",
+      "name": "DueDraft.ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/duedraft.webp"
+    },
+    {
+      "id": "exhibitor_626",
+      "name": "Fitnastic Health pvt ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/fitnastic.webp"
+    },
+    {
+      "id": "exhibitor_627",
+      "name": "Movibase Platform Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_628",
+      "name": "AXL Infotech Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/axl.webp"
+    },
+    {
+      "id": "exhibitor_629",
+      "name": "Growth Jockey Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/growth_jockey.webp"
+    },
+    {
+      "id": "exhibitor_630",
+      "name": "Kritdhi AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_631",
+      "name": "Spark Connect",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/spark.webp"
+    },
+    {
+      "id": "exhibitor_632",
+      "name": "Gupshup Technology India Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gupshup.webp"
+    },
+    {
+      "id": "exhibitor_633",
+      "name": "Alertis PVT LTD",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/alertis.webp"
+    },
+    {
+      "id": "exhibitor_634",
+      "name": "Presear Softwares PVT LTD",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/presear.webp"
+    },
+    {
+      "id": "exhibitor_635",
+      "name": "Vasitum Inc.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vasitum.webp"
+    },
+    {
+      "id": "exhibitor_636",
+      "name": "Onelogica",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/onelogica.webp"
+    },
+    {
+      "id": "exhibitor_637",
+      "name": "Omelo - AI for Animal Health",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/omelo.webp"
+    },
+    {
+      "id": "exhibitor_638",
+      "name": "GTMvantage Technologies Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/gtm.webp"
+    },
+    {
+      "id": "exhibitor_639",
+      "name": "amara info sec",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_640",
+      "name": "Coral Innovations Pvt. Ltd. (Bharat Smart Services)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bharat_smart_services.webp"
+    },
+    {
+      "id": "exhibitor_641",
+      "name": "BigOHealth",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/bigohealth.webp"
+    },
+    {
+      "id": "exhibitor_642",
+      "name": "MarcViews Networks Inc.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/marcviews.webp"
+    },
+    {
+      "id": "exhibitor_643",
+      "name": "Exosphere",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/exosphere.webp"
+    },
+    {
+      "id": "exhibitor_644",
+      "name": "Deepchecks",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/deepchecks.webp"
+    },
+    {
+      "id": "exhibitor_645",
+      "name": "Newronai Technologies Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/newron.webp"
+    },
+    {
+      "id": "exhibitor_646",
+      "name": "Truverizen Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/truverizen.webp"
+    },
+    {
+      "id": "exhibitor_647",
+      "name": "OmniCard",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/omnicard.webp"
+    },
+    {
+      "id": "exhibitor_648",
+      "name": "Reblue Ventures Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/reblue.webp"
+    },
+    {
+      "id": "exhibitor_649",
+      "name": "Infinite Uptime India Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/infinitw_uptime.webp"
+    },
+    {
+      "id": "exhibitor_650",
+      "name": "VivaMama",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vivamama.webp"
+    },
+    {
+      "id": "exhibitor_651",
+      "name": "NexusVoid AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/nexusvoid_ai.webp"
+    },
+    {
+      "id": "exhibitor_652",
+      "name": "EmergX",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/emergx.webp"
+    },
+    {
+      "id": "exhibitor_653",
+      "name": "Satyananda Technologies Pvt ltd (ambaram.ai)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/ambaram.webp"
+    },
+    {
+      "id": "exhibitor_654",
+      "name": "TaxbotGPT AI Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/taxbot.webp"
+    },
+    {
+      "id": "exhibitor_655",
+      "name": "I HUB RESEARCH AND ROBOTICS PRIVATE LIMITED",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_656",
+      "name": "Secondbrain.AI Pvt Ltd",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/second_brain.webp"
+    },
+    {
+      "id": "exhibitor_657",
+      "name": "Dashverse India Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/dashverse.webp"
+    },
+    {
+      "id": "exhibitor_658",
+      "name": "Synergylabs Technology Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/synergylabs.webp"
+    },
+    {
+      "id": "exhibitor_659",
+      "name": "HattaKatta Tech",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/hattakatta.webp"
+    },
+    {
+      "id": "exhibitor_660",
+      "name": "CORAA AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/coraa.webp"
+    },
+    {
+      "id": "exhibitor_661",
+      "name": "Vexoo Labs",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/vexoo.webp"
+    },
+    {
+      "id": "exhibitor_662",
+      "name": "EmvoAI Labs Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_663",
+      "name": "Consint Solutions Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/consint.webp"
+    },
+    {
+      "id": "exhibitor_664",
+      "name": "Waisl Limited",
+      "hall": "15",
+      "sqm": "18",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/waisl.webp"
+    },
+    {
+      "id": "exhibitor_665",
+      "name": "Immerso Innovation Venture Private Limited",
+      "hall": "15",
+      "sqm": "96",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_666",
+      "name": "Mine2",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/mine2.webp"
+    },
+    {
+      "id": "exhibitor_667",
+      "name": "Agniware",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_668",
+      "name": "THINK MOD AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_669",
+      "name": "Prajva Plus (First Trained Ai of Ayurveda)",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_670",
+      "name": "Glad Systems and Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_671",
+      "name": "Idea Jewellery Ai",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_672",
+      "name": "Solution Buddy",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_673",
+      "name": "Medha Robotics Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_674",
+      "name": "Peush Bery",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_675",
+      "name": "Now Technologies Pvt. Ltd.",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_676",
+      "name": "Chakravue Ai Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_677",
+      "name": "Kritdhi AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_678",
+      "name": "Vidla AI",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    },
+    {
+      "id": "exhibitor_679",
+      "name": "National Health Authority",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Government",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/national_health_authority.webp"
+    },
+    {
+      "id": "exhibitor_680",
+      "name": "Utho Platforms Private Limited",
+      "hall": "15",
+      "sqm": "9",
+      "category": "Corporate",
+      "subCategory": "Domestic",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/utho.webp"
+    },
+    {
+      "id": "exhibitor_681",
+      "name": "Acidaes Solutions Private Limited",
+      "hall": "15",
+      "sqm": "1",
+      "category": "Startup",
+      "logo": "https://www.impactexpo.indiaai.gov.in/images/exhibitors/placeholder.webp"
+    }
+  ]
+}

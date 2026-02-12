@@ -1,0 +1,2114 @@
+[
+  {
+    "url": "https://cms-uatimpact.indiaai.in/api/session-cards?sort[0]=date:asc&sort[1]=startTime:asc&populate[cards]=*&populate[Buttons]=*&pagination[page]=1&pagination[pageSize]=25",
+    "data": {
+      "data": [
+        {
+          "id": 5221,
+          "documentId": "nytjsq772seft72ou63sjzd5",
+          "title": "Role of Contextual Norms in Designing Better and Accurate AI Systems ",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "AI systems deployed across diverse cultural contexts often fail not because of technical limitations, but because they overlook the social norms that govern human behavior. This research session brings together cutting-edge work from various research, corporate and governance institutions to demonstrate how understanding social norms - the unwritten rules of culture - is essential for building AI systems that are not just accurate, but trusted, adopted, and effective in local communities.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 17",
+          "createdAt": "2026-02-10T16:16:10.427Z",
+          "updatedAt": "2026-02-11T17:10:41.495Z",
+          "publishedAt": "2026-02-11T17:10:41.642Z",
+          "globalSearch": "Role of Contextual Norms in Designing Better and Accurate AI Systems  AI systems deployed across diverse cultural contexts often fail not because of technical limitations, but because they overlook the social norms that govern human behavior. This research session brings together cutting-edge work from various research, corporate and governance institutions to demonstrate how understanding social norms - the unwritten rules of culture - is essential for building AI systems that are not just accurate, but trusted, adopted, and effective in local communities. Bharat Mandapam L1 Meeting Room No. 17 Mohit Jain, PhD Philipp Zimmer Sharath Chandra Guntuku, PhD Sunny Rai, PhD University of Pennsylvania",
+          "eventID": "6920c931b5d0f57ed6f77cdf",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14952,
+              "heading": "Mohit Jain, PhD",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14953,
+              "heading": "Philipp Zimmer",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14954,
+              "heading": "Sharath Chandra Guntuku, PhD",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14955,
+              "heading": "Sunny Rai, PhD",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2614,
+              "title": "University of Pennsylvania",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5144,
+          "documentId": "hadkcok2tdnp9ned2dfksqsz",
+          "title": "Leadership Talk: Harnessing AI for the Future of Learning and Work",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This leadership talk explores how AI is reshaping global employment and redefining future skills. It highlights the need for continuous, skills-based learning to build resilient, future-ready talent, and examines how education systems, workforce strategies, and policy frameworks must align. Through real-world examples, it showcases practical, collaborative approaches to accelerating AI readiness and closing critical skills gaps.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 18",
+          "createdAt": "2026-02-10T16:16:04.891Z",
+          "updatedAt": "2026-02-11T17:10:07.181Z",
+          "publishedAt": "2026-02-11T17:10:07.290Z",
+          "globalSearch": "Leadership Talk: Harnessing AI for the Future of Learning and Work This leadership talk explores how AI is reshaping global employment and redefining future skills. It highlights the need for continuous, skills-based learning to build resilient, future-ready talent, and examines how education systems, workforce strategies, and policy frameworks must align. Through real-world examples, it showcases practical, collaborative approaches to accelerating AI readiness and closing critical skills gaps. Bharat Mandapam L1 Meeting Room No. 18 Dr. Matteo Zallio Mustafa Furniturewala Rajiv Tandon Sanjay Jain Tapish Bhatt Coursera India Pvt Ltd",
+          "eventID": "6916e3bc5d05f4811c981c28",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14147,
+              "heading": "Dr. Matteo Zallio",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14148,
+              "heading": "Mustafa Furniturewala",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14149,
+              "heading": "Rajiv Tandon",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14150,
+              "heading": "Sanjay Jain",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14151,
+              "heading": "Tapish Bhatt",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2466,
+              "title": "Coursera India Pvt Ltd",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5168,
+          "documentId": "ex6a6ixgubnn99pob6tb4r58",
+          "title": "Embedding Trust in Innovation: AI Governance and Quality Infrastructure for Growth",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This roundtable convenes policymakers, regulators, industry leaders, and global experts to shape trusted pathways for AI adoption. It examines how AI-enabled Quality Infrastructure can strengthen governance, accountability, and global acceptance. Through applied use cases and international perspectives, it highlights interoperable assurance frameworks that reduce compliance friction, boost MSME competitiveness, enable cross-border trade, and position India as a leader in responsible, innovation-driven AI growth for inclusive, secure, and scalable digital transformation.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "West Wing Room 4 B",
+          "createdAt": "2026-02-10T16:15:46.329Z",
+          "updatedAt": "2026-02-11T17:10:17.134Z",
+          "publishedAt": "2026-02-11T17:10:17.289Z",
+          "globalSearch": "Embedding Trust in Innovation: AI Governance and Quality Infrastructure for Growth This roundtable convenes policymakers, regulators, industry leaders, and global experts to shape trusted pathways for AI adoption. It examines how AI-enabled Quality Infrastructure can strengthen governance, accountability, and global acceptance. Through applied use cases and international perspectives, it highlights interoperable assurance frameworks that reduce compliance friction, boost MSME competitiveness, enable cross-border trade, and position India as a leader in responsible, innovation-driven AI growth for inclusive, secure, and scalable digital transformation. Bharat Mandapam West Wing Room 4 B Amanda Craig Ashutosh Bahuguna Chakravathy T Kannan Jagdheesh Manian Richard Skalt TIC Council (Headquarters- Brussels, Belgium)",
+          "eventID": "691733455d05f4811c98633c",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14381,
+              "heading": "Amanda Craig",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14382,
+              "heading": "Ashutosh Bahuguna",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14383,
+              "heading": "Chakravathy T Kannan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14384,
+              "heading": "Jagdheesh Manian",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14385,
+              "heading": "Richard Skalt",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2510,
+              "title": "TIC Council (Headquarters- Brussels, Belgium)",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5265,
+          "documentId": "g2vf7kxas4xxe3l2twvr97xw",
+          "title": "From Vision to Action: Scaling Equitable AI Advisory Systems Through AGX AI",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This interactive session convenes leaders advancing AI advisory systems in agriculture to explore AGX AI as a growing community of practice focused on responsibly scaling AI for small-scale producers. Drawing on work in benchmarking, data corpus development, and model approaches, the session highlights emerging learning priorities, key collaboration needs, and opportunities for participants to help shape the next phase of shared learning across regions and sectors.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 8",
+          "createdAt": "2026-02-10T16:16:12.899Z",
+          "updatedAt": "2026-02-11T17:11:01.130Z",
+          "publishedAt": "2026-02-11T17:11:01.256Z",
+          "globalSearch": "From Vision to Action: Scaling Equitable AI Advisory Systems Through AGX AI This interactive session convenes leaders advancing AI advisory systems in agriculture to explore AGX AI as a growing community of practice focused on responsibly scaling AI for small-scale producers. Drawing on work in benchmarking, data corpus development, and model approaches, the session highlights emerging learning priorities, key collaboration needs, and opportunities for participants to help shape the next phase of shared learning across regions and sectors. Bharat Mandapam L1 Meeting Room No. 8 Mr. David Bergvinson Mr. Michael Minkoff Mr. Stewart Collis Ms. Sophie Barrowman DevGlobal",
+          "eventID": "6928c7803868e22afaca11f1",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 15466,
+              "heading": "Mr. David Bergvinson",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15467,
+              "heading": "Mr. Michael Minkoff",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15468,
+              "heading": "Mr. Stewart Collis",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15469,
+              "heading": "Ms. Sophie Barrowman",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2694,
+              "title": "DevGlobal",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5268,
+          "documentId": "bvcw6usy91eks75w2o9rkpwr",
+          "title": "Inside India's Frontier Lab and Its Global South Impact",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This flagship session presents a first look at frontier AI developments, including a foundation model initiative. The showcase features applied systems, illustrating how frontier research translates into real-world impact. Joined by leaders across industry, infrastructure, and policy, the session highlights efforts to build end-to-end AI capabilities aligned with national priorities and broader relevance across emerging markets.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 6",
+          "createdAt": "2026-02-10T16:15:42.287Z",
+          "updatedAt": "2026-02-11T17:11:02.871Z",
+          "publishedAt": "2026-02-11T17:11:03.077Z",
+          "globalSearch": "Inside India's Frontier Lab and Its Global South Impact This flagship session presents a first look at frontier AI developments, including a foundation model initiative. The showcase features applied systems, illustrating how frontier research translates into real-world impact. Joined by leaders across industry, infrastructure, and policy, the session highlights efforts to build end-to-end AI capabilities aligned with national priorities and broader relevance across emerging markets. Bharat Mandapam L1 Meeting Room No. 6 Abhishek Upperwal Dr. Mayank Singh, Mr. Joseph Joshy Mr. Rangarajan V Mr. Sahil Arora Mr. Sunil Gupta Soket Labs Technology and Research Private Limited",
+          "eventID": "69296894582686b851fd2d20",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 15504,
+              "heading": "Abhishek Upperwal",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15505,
+              "heading": "Dr. Mayank Singh,",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15506,
+              "heading": "Mr. Joseph Joshy",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15507,
+              "heading": "Mr. Rangarajan V",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15508,
+              "heading": "Mr. Sahil Arora",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15509,
+              "heading": "Mr. Sunil Gupta",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2700,
+              "title": "Soket Labs Technology and Research Private Limited",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5382,
+          "documentId": "azv2nzis3xu7jsbl28yyc6s6",
+          "title": "Reimagining Gender in Technology - Designing Safer Digital Futures and Advancing Ethical AI for Inclusive Platforms",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "India is rapidly adopting AI and digital technologies across governance, education, health, commerce, and social life. While these systems offer inclusion and innovation, they also pose growing risks for women, girls, and gender-diverse persons, including cyberstalking, deepfakes, harassment, and algorithmic bias, limiting safe digital participation. As India's digital population expands, embedding gender-responsive, rights-based, and ethical approaches in digital governance and AI design is urgent.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 15",
+          "createdAt": "2026-02-10T16:15:48.753Z",
+          "updatedAt": "2026-02-11T17:11:54.507Z",
+          "publishedAt": "2026-02-11T17:11:54.617Z",
+          "globalSearch": "Reimagining Gender in Technology - Designing Safer Digital Futures and Advancing Ethical AI for Inclusive Platforms India is rapidly adopting AI and digital technologies across governance, education, health, commerce, and social life. While these systems offer inclusion and innovation, they also pose growing risks for women, girls, and gender-diverse persons, including cyberstalking, deepfakes, harassment, and algorithmic bias, limiting safe digital participation. As India's digital population expands, embedding gender-responsive, rights-based, and ethical approaches in digital governance and AI design is urgent. Bharat Mandapam L1 Meeting Room No. 15 Andrea Wojnar Arpita Kanjilal Carolyn Florey Priyanka Chaturvedi Rajiv Makhani Rutuja Pol Soha Ali Khan Uthara Ganesh United Nations Population Fund (UNFPA)",
+          "eventID": "692c0caa8c2fe8ea632616da",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 16802,
+              "heading": "Andrea Wojnar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16803,
+              "heading": "Arpita Kanjilal",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16804,
+              "heading": "Carolyn Florey",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16805,
+              "heading": "Priyanka Chaturvedi",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16806,
+              "heading": "Rajiv Makhani",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16807,
+              "heading": "Rutuja Pol",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16808,
+              "heading": "Soha Ali Khan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16809,
+              "heading": "Uthara Ganesh",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2920,
+              "title": "United Nations Population Fund (UNFPA)",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5192,
+          "documentId": "e8vmioklrfmb05pe9fdh32h6",
+          "title": "The Future of Employability in the Age of AI",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "AI will create more job opportunities but also make many existing jobs redundant. This will also require skilling and re-skilling of workers across the spectrum. The Panel Discussion will focus on short-term and long-term impact of AI on employment, both at the industry level (e.g., manufacturing, healthcare, automobile) and function level (e.g., HR, sales, supply chain). Moreover, the panel will identify steps to be taken to mitigate the risks by enhancing opportunities.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "West Wing Room 4 A",
+          "createdAt": "2026-02-10T16:16:06.247Z",
+          "updatedAt": "2026-02-11T17:10:28.512Z",
+          "publishedAt": "2026-02-11T17:10:28.661Z",
+          "globalSearch": "The Future of Employability in the Age of AI AI will create more job opportunities but also make many existing jobs redundant. This will also require skilling and re-skilling of workers across the spectrum. The Panel Discussion will focus on short-term and long-term impact of AI on employment, both at the industry level (e.g., manufacturing, healthcare, automobile) and function level (e.g., HR, sales, supply chain). Moreover, the panel will identify steps to be taken to mitigate the risks by enhancing opportunities. Bharat Mandapam West Wing Room 4 A Dr. V Anantha Nageswaran Mr. Alok Agrawal Mr. Sanjeev Bhikchandani Mr. Sateesh Seetharamiah Mr. Vineet Nayar Ms. Smita Prakash Prof. Anurag Mairal Shashi Shekhar Vempati DeepTech4Bharat Foundation",
+          "eventID": "69186b76e67b6cd27756545a",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14664,
+              "heading": "Dr. V Anantha Nageswaran",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14665,
+              "heading": "Mr. Alok Agrawal",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14666,
+              "heading": "Mr. Sanjeev Bhikchandani",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14667,
+              "heading": "Mr. Sateesh Seetharamiah",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14668,
+              "heading": "Mr. Vineet Nayar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14669,
+              "heading": "Ms. Smita Prakash",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14670,
+              "heading": "Prof. Anurag Mairal",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14671,
+              "heading": "Shashi Shekhar Vempati",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2558,
+              "title": "DeepTech4Bharat Foundation",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5505,
+          "documentId": "tlvwv8298ied25hbo8randf5",
+          "title": "AI and the Future of Skilling: Strengthening Human Capital and Transforming Higher Education Institutions",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "As AI transforms economies, developing strong human capital is increasingly important for workforce readiness. This session on \"AI and the Future of Skilling\" at the India AI Impact Summit 2026 will convene stakeholders from government, industry, and academia to discuss approaches to building an AI-ready workforce. The discussion will explore policy pathways, industry–academia collaboration, institutional AI readiness, future-focused skilling frameworks, and capacity-building across higher education to support employability, innovation, and broader adoption.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 9",
+          "createdAt": "2026-02-10T16:15:52.369Z",
+          "updatedAt": "2026-02-11T17:12:42.723Z",
+          "publishedAt": "2026-02-11T17:12:42.811Z",
+          "globalSearch": "AI and the Future of Skilling: Strengthening Human Capital and Transforming Higher Education Institutions As AI transforms economies, developing strong human capital is increasingly important for workforce readiness. This session on \"AI and the Future of Skilling\" at the India AI Impact Summit 2026 will convene stakeholders from government, industry, and academia to discuss approaches to building an AI-ready workforce. The discussion will explore policy pathways, industry–academia collaboration, institutional AI readiness, future-focused skilling frameworks, and capacity-building across higher education to support employability, innovation, and broader adoption. Bharat Mandapam L1 Meeting Room No. 9 Ashish Kulkarni Dr. Manish Kumar Narayanan Ramaswamy Professor MS Vijay Kumar Shankar Maruwada KPMG",
+          "eventID": "IA95",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 18055,
+              "heading": "Ashish Kulkarni",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18056,
+              "heading": "Dr. Manish Kumar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18057,
+              "heading": "Narayanan Ramaswamy",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18058,
+              "heading": "Professor MS Vijay Kumar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18059,
+              "heading": "Shankar Maruwada",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 3140,
+              "title": "KPMG",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5444,
+          "documentId": "o22cbg5exz67awx3j2wg59sk",
+          "title": "Multilingual AI in Universities - Advancing Inclusion Through UA and Stakeholder Insights",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "As digital technologies become central to education, linguistic accessibility emerges as a critical equity issue. This study examines how universities enable multilingual participation through UA. Drawing on Diffusion Innovation Theory (DIT) and Technology Acceptance Model (TAM), this investigation reviews stakeholder experiences across universities in Asia and Europe using an innovative AI-assisted interview methodology. The findings also revealed critical gaps in universities' capacity to advance UN SDG 4/9/10/17 through inclusive digital infrastructure while presenting billions of dollars opportunity.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "West Wing Room No. 6",
+          "createdAt": "2026-02-10T16:16:14.800Z",
+          "updatedAt": "2026-02-11T17:12:20.444Z",
+          "publishedAt": "2026-02-11T17:12:20.540Z",
+          "globalSearch": "Multilingual AI in Universities - Advancing Inclusion Through UA and Stakeholder Insights As digital technologies become central to education, linguistic accessibility emerges as a critical equity issue. This study examines how universities enable multilingual participation through UA. Drawing on Diffusion Innovation Theory (DIT) and Technology Acceptance Model (TAM), this investigation reviews stakeholder experiences across universities in Asia and Europe using an innovative AI-assisted interview methodology. The findings also revealed critical gaps in universities' capacity to advance UN SDG 4/9/10/17 through inclusive digital infrastructure while presenting billions of dollars opportunity. Bharat Mandapam West Wing Room No. 6 Sameer Gahlot National Internet Exchange of India",
+          "eventID": "692c80aff3a94d252c75e23c",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 17477,
+              "heading": "Sameer Gahlot",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 3034,
+              "title": "National Internet Exchange of India",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5226,
+          "documentId": "qdoagxaptuun1422ltbpp3s9",
+          "title": "AI for Road Safety: Data-Driven Solutions for Enhancing Road Safety in India",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This session explores how artificial intelligence can drive measurable impact in improving road safety across India. It highlights data-driven approaches for understanding crash patterns, predicting risks and enabling proactive interventions. The discussion focuses on scalable AI applications that support safer mobility, training drivers and building data driven hyperlocal models, aligning with Vikshit Bharat 2047 vision of technology-led impact for public good.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L2 Audi 1",
+          "createdAt": "2026-02-10T16:15:53.588Z",
+          "updatedAt": "2026-02-11T17:10:44.037Z",
+          "publishedAt": "2026-02-11T17:10:44.133Z",
+          "globalSearch": "AI for Road Safety: Data-Driven Solutions for Enhancing Road Safety in India This session explores how artificial intelligence can drive measurable impact in improving road safety across India. It highlights data-driven approaches for understanding crash patterns, predicting risks and enabling proactive interventions. The discussion focuses on scalable AI applications that support safer mobility, training drivers and building data driven hyperlocal models, aligning with Vikshit Bharat 2047 vision of technology-led impact for public good. Bharat Mandapam L2 Audi 1 Atul Singh Dr. Priyadarshini Natarajan Prof. Venkatesh Balasubramanian Shri V. Umashankar Smt. Usha Padhee Centre of Excellence for Road Safety, IIT Madras",
+          "eventID": "69247f4c9bbb68523deb0993",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 15019,
+              "heading": "Atul Singh",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15020,
+              "heading": "Dr. Priyadarshini Natarajan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15021,
+              "heading": "Prof. Venkatesh Balasubramanian",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15022,
+              "heading": "Shri V. Umashankar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15023,
+              "heading": "Smt. Usha Padhee",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2624,
+              "title": "Centre of Excellence for Road Safety, IIT Madras",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5327,
+          "documentId": "vj0j75kblx35hw0z8eafq7a6",
+          "title": "AI for Smart and Resilient Agriculture: From Research to Solutions",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This session will bring together diverse perspectives to explore how artificial intelligence can support sustainable, efficient, and climate-resilient agriculture. It will examine farmers' needs, the scientific and data challenges shaping AI-driven innovation, and the conditions required for impartial adoption and sovereignty. The discussion will bridge research and on-ground experience, highlighting practical applications, policy considerations, and future pathways to ensure AI solutions are inclusive, scalable, and relevant across different agricultural contexts",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 19",
+          "createdAt": "2026-02-10T16:15:56.488Z",
+          "updatedAt": "2026-02-11T17:11:29.304Z",
+          "publishedAt": "2026-02-11T17:11:29.394Z",
+          "globalSearch": "AI for Smart and Resilient Agriculture: From Research to Solutions This session will bring together diverse perspectives to explore how artificial intelligence can support sustainable, efficient, and climate-resilient agriculture. It will examine farmers' needs, the scientific and data challenges shaping AI-driven innovation, and the conditions required for impartial adoption and sovereignty. The discussion will bridge research and on-ground experience, highlighting practical applications, policy considerations, and future pathways to ensure AI solutions are inclusive, scalable, and relevant across different agricultural contexts Bharat Mandapam L1 Meeting Room No. 19 Cina LAWSON Dr. Bharat KAKADE Dr. Carole CARANTA Dr. Thierry CAQUET Dr. Vincent MARTIN Henri VERDIER Henry VAN BURGSTEDEN Inria",
+          "eventID": "692b0deb79d045d40ae1fa08",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 16197,
+              "heading": "Cina LAWSON",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16198,
+              "heading": "Dr. Bharat KAKADE",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16199,
+              "heading": "Dr. Carole CARANTA",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16200,
+              "heading": "Dr. Thierry CAQUET",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16201,
+              "heading": "Dr. Vincent MARTIN",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16202,
+              "heading": "Henri VERDIER",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16203,
+              "heading": "Henry VAN BURGSTEDEN",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2814,
+              "title": "Inria",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5142,
+          "documentId": "h8svib0ituv6bdspcr62bxoz",
+          "title": "Harnessing AI to Transform India's Judicial Ecosystem",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "AI has the potential to revolutionise India's judicial system by enhancing efficiency, transparency, and accessibility. It can enable predictive analytics for informed decision-making, automate case management, facilitate legal research, and support virtual courts, leading to faster dispute resolution, reduced backlog, and improved access to justice. This session will examine the transformative potential of AI, assess implementation challenges, and explore strategies for leveraging technology to create an efficient, transparent, and inclusive judicial system.",
+          "date": "2026-02-16",
+          "startTime": "09:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 16",
+          "createdAt": "2026-02-10T16:15:52.032Z",
+          "updatedAt": "2026-02-11T17:10:06.273Z",
+          "publishedAt": "2026-02-11T17:10:06.389Z",
+          "globalSearch": "Harnessing AI to Transform India's Judicial Ecosystem AI has the potential to revolutionise India's judicial system by enhancing efficiency, transparency, and accessibility. It can enable predictive analytics for informed decision-making, automate case management, facilitate legal research, and support virtual courts, leading to faster dispute resolution, reduced backlog, and improved access to justice. This session will examine the transformative potential of AI, assess implementation challenges, and explore strategies for leveraging technology to create an efficient, transparent, and inclusive judicial system. Bharat Mandapam L1 Meeting Room No. 16 Arya Tripathy Dr. Aparajita Bhatt Mr. Vikas Mahendra Sh. Rajnish Kumar Sh. Shardul Shroff National Law University Delhi",
+          "eventID": "6916d7245d05f4811c981396",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14125,
+              "heading": "Arya Tripathy",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14126,
+              "heading": "Dr. Aparajita Bhatt",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14127,
+              "heading": "Mr. Vikas Mahendra",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14128,
+              "heading": "Sh. Rajnish Kumar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14129,
+              "heading": "Sh. Shardul Shroff",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2462,
+              "title": "National Law University Delhi",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5123,
+          "documentId": "x5o4xehyno6v9imwk98oznk0",
+          "title": "AI Literacy: Building Skills, Inclusion, and Global Leadership",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This session addresses the critical AI literacy gap limiting equitable access to AI knowledge across sectors and geographies. It will explore strategies to embed AI education across formal learning, workforce upskilling, and lifelong learning through training multipliers like teachers, government officials, and workforce development leaders. It will introduce the concept of the Universal AI Literacy Stack, and examine how multi-stakeholder collaboration among governments, industry, academia, and global partners can position countries as AI literacy leaders.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 14",
+          "createdAt": "2026-02-10T16:16:09.536Z",
+          "updatedAt": "2026-02-11T17:09:55.840Z",
+          "publishedAt": "2026-02-11T17:09:55.957Z",
+          "globalSearch": "AI Literacy: Building Skills, Inclusion, and Global Leadership This session addresses the critical AI literacy gap limiting equitable access to AI knowledge across sectors and geographies. It will explore strategies to embed AI education across formal learning, workforce upskilling, and lifelong learning through training multipliers like teachers, government officials, and workforce development leaders. It will introduce the concept of the Universal AI Literacy Stack, and examine how multi-stakeholder collaboration among governments, industry, academia, and global partners can position countries as AI literacy leaders. Bharat Mandapam L1 Meeting Room No. 14 Lakshmi Misra Prabhat Kumar Sourabh Choudhary AIforAll Global",
+          "eventID": "6915a78b5d05f4811c974dc9",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 13909,
+              "heading": "Lakshmi Misra",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13910,
+              "heading": "Prabhat Kumar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13911,
+              "heading": "Sourabh Choudhary",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2424,
+              "title": "AIforAll Global",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5216,
+          "documentId": "db0rgh7r2zkychy4ma1k4ai8",
+          "title": "Redesigning the AI Economy",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "The main stage session will examine how participatory and ethical data pipelines can support a more inclusive AI ecosystem at national scale. Bringing together policymakers, technologists, researchers, and community representatives, the discussion will explore community-led data creation, evaluation, and model development. The session will highlight how fair compensation, local knowledge, and transparent governance can strengthen AI systems and inform responsible AI policy and practice in India and across the Global Majority.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 8",
+          "createdAt": "2026-02-10T16:15:47.944Z",
+          "updatedAt": "2026-02-11T17:10:39.013Z",
+          "publishedAt": "2026-02-11T17:10:39.106Z",
+          "globalSearch": "Redesigning the AI Economy The main stage session will examine how participatory and ethical data pipelines can support a more inclusive AI ecosystem at national scale. Bringing together policymakers, technologists, researchers, and community representatives, the discussion will explore community-led data creation, evaluation, and model development. The session will highlight how fair compensation, local knowledge, and transparent governance can strengthen AI systems and inform responsible AI policy and practice in India and across the Global Majority. Bharat Mandapam L1 Meeting Room No. 8 Amitabh Nag Divya Siddarth ⁠Dr. Sunayana Sitaram Manu Chopra Karya",
+          "eventID": "691dcc2a48d9e7c279242eda",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14894,
+              "heading": "Amitabh Nag",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14895,
+              "heading": "Divya Siddarth",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14896,
+              "heading": "⁠Dr. Sunayana Sitaram",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14897,
+              "heading": "Manu Chopra",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2604,
+              "title": "Karya",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5315,
+          "documentId": "dsfyb54pmh7pm7opqmknqakn",
+          "title": "Unlocking AI's Potential for Agricultural Innovation and DPI-Enabled Economic \nGrowth",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This session explores how artificial intelligence, supported by digital public infrastructure, can strengthen agricultural systems and drive inclusive economic growth. It focuses on practical pathways to deliver trusted, data-driven advisory services, improve farmer decision-making, and enable scalable innovation through interoperable systems, partnerships, and governance frameworks that support real-world impact.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L2 Audi 1",
+          "createdAt": "2026-02-10T16:16:07.602Z",
+          "updatedAt": "2026-02-11T17:11:23.778Z",
+          "publishedAt": "2026-02-11T17:11:23.890Z",
+          "globalSearch": "Unlocking AI's Potential for Agricultural Innovation and DPI-Enabled Economic \nGrowth This session explores how artificial intelligence, supported by digital public infrastructure, can strengthen agricultural systems and drive inclusive economic growth. It focuses on practical pathways to deliver trusted, data-driven advisory services, improve farmer decision-making, and enable scalable innovation through interoperable systems, partnerships, and governance frameworks that support real-world impact. Bharat Mandapam L2 Audi 1 Fatema AlMulla Jagadish Babu Nidhi Bhasin Niriksha Shetty Sanjay Jain Gates Foundation",
+          "eventID": "692abb146301504975ecfe88",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 16059,
+              "heading": "Fatema AlMulla",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16060,
+              "heading": "Jagadish Babu",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16061,
+              "heading": "Nidhi Bhasin",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16062,
+              "heading": "Niriksha Shetty",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 16063,
+              "heading": "Sanjay Jain",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2790,
+              "title": "Gates Foundation",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5060,
+          "documentId": "yceffxj9x7vg5fgw07j444sa",
+          "title": "Empowering the Human Edge: Building a Future-Ready Workforce in the Age of AI",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "Bringing together governments, enterprises, and academic leaders, this session will spotlight how large-scale AI skilling and reskilling initiatives are being designed and delivered; the gaps emerging in AI talent supply; and what it takes to build a workforce that can adapt and thrive in an AI-driven economy. The discussion will surface practical lessons and scalable approaches for building inclusive, future-ready AI talent ecosystems.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 18",
+          "createdAt": "2026-02-10T16:16:08.490Z",
+          "updatedAt": "2026-02-11T17:09:32.145Z",
+          "publishedAt": "2026-02-11T17:09:32.277Z",
+          "globalSearch": "Empowering the Human Edge: Building a Future-Ready Workforce in the Age of AI Bringing together governments, enterprises, and academic leaders, this session will spotlight how large-scale AI skilling and reskilling initiatives are being designed and delivered; the gaps emerging in AI talent supply; and what it takes to build a workforce that can adapt and thrive in an AI-driven economy. The discussion will surface practical lessons and scalable approaches for building inclusive, future-ready AI talent ecosystems. Bharat Mandapam L1 Meeting Room No. 18 Idris A. Rai Jay Krishnan Phani Nagarjuna Roma Datta Chobey Sidharth Madaan Vani Kola Japan International Cooperation Agency",
+          "eventID": "6929d6a03b3e8d7e576a973e",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 13380,
+              "heading": "Idris A. Rai",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13381,
+              "heading": "Jay Krishnan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13382,
+              "heading": "Phani Nagarjuna",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13383,
+              "heading": "Roma Datta Chobey",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13384,
+              "heading": "Sidharth Madaan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 13385,
+              "heading": "Vani Kola",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2316,
+              "title": "Japan International Cooperation Agency",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5154,
+          "documentId": "eero6fnj9abjz34f0ctgqu3t",
+          "title": "Harnessing AI for Water Resilience and Sustainable Growth",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "As artificial intelligence becomes the backbone of global economic growth, its physical footprint is expanding rapidly particularly through energy-intensive, water-dependent data centres and digital infrastructure. At the same time, AI is emerging as one of the most powerful tools available to solve the world's most urgent water challenges: scarcity, leakage, contamination, flooding, and inequitable access.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "West Wing Room No. 6",
+          "createdAt": "2026-02-10T16:15:57.526Z",
+          "updatedAt": "2026-02-11T17:10:11.394Z",
+          "publishedAt": "2026-02-11T17:10:11.513Z",
+          "globalSearch": "Harnessing AI for Water Resilience and Sustainable Growth As artificial intelligence becomes the backbone of global economic growth, its physical footprint is expanding rapidly particularly through energy-intensive, water-dependent data centres and digital infrastructure. At the same time, AI is emerging as one of the most powerful tools available to solve the world's most urgent water challenges: scarcity, leakage, contamination, flooding, and inequitable access. Bharat Mandapam West Wing Room No. 6 David Wood Shruti Kapil Sujith Nair International Centre for Sustainability",
+          "eventID": "691709df5d05f4811c9839ea",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14249,
+              "heading": "David Wood",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14250,
+              "heading": "Shruti Kapil",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14251,
+              "heading": "Sujith Nair",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2486,
+              "title": "International Centre for Sustainability",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5261,
+          "documentId": "uvrw86h34n1e26385tuu0xwo",
+          "title": "Practical Aspects of Using AI in Daily Life",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This hands-on workshop aims to give an introduction to AI with live demonstrations starting from basics such as how it can be used in data analysis, making presentations and drafting documents. It also covers precautions one should take while using AI and dealing with proprietary, confidential or sensitive data. The session then moves to an entrepreneur perspective on challenges the ecosystem currently faces. The session will end with an open floor for questions.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 17",
+          "createdAt": "2026-02-10T16:16:06.601Z",
+          "updatedAt": "2026-02-11T17:10:58.799Z",
+          "publishedAt": "2026-02-11T17:10:58.918Z",
+          "globalSearch": "Practical Aspects of Using AI in Daily Life This hands-on workshop aims to give an introduction to AI with live demonstrations starting from basics such as how it can be used in data analysis, making presentations and drafting documents. It also covers precautions one should take while using AI and dealing with proprietary, confidential or sensitive data. The session then moves to an entrepreneur perspective on challenges the ecosystem currently faces. The session will end with an open floor for questions. Bharat Mandapam L1 Meeting Room No. 17 Dr.Preet Deep Singh Prof. Shiva Kakkar Prof.Vaibhav Chaudhary Shri.Nirmit Parikh Apna.co",
+          "eventID": "69283fc5d31370f8e21ce354",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 15418,
+              "heading": "Dr.Preet Deep Singh",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15419,
+              "heading": "Prof. Shiva Kakkar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15420,
+              "heading": "Prof.Vaibhav Chaudhary",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 15421,
+              "heading": "Shri.Nirmit Parikh",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2686,
+              "title": "Apna.co",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5493,
+          "documentId": "xsczbg2eia1f2tdq4t5dq91a",
+          "title": "Sovereign AI for National Security : India's Path to digital Sovereignty",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "The session explores how Sovereign AI is becoming central to  national security, covering its role in defense modernization, cyber resilience, space and hypersonic domains, internal security, and policing. It highlights how indigenous AI enhances threat detection, border management, and critical infrastructure protection, while also examining government–industry collaboration to build secure, resilient AI capabilities.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 9",
+          "createdAt": "2026-02-10T16:16:08.396Z",
+          "updatedAt": "2026-02-11T17:12:37.525Z",
+          "publishedAt": "2026-02-11T17:12:37.633Z",
+          "globalSearch": "Sovereign AI for National Security : India's Path to digital Sovereignty The session explores how Sovereign AI is becoming central to  national security, covering its role in defense modernization, cyber resilience, space and hypersonic domains, internal security, and policing. It highlights how indigenous AI enhances threat detection, border management, and critical infrastructure protection, while also examining government–industry collaboration to build secure, resilient AI capabilities. Bharat Mandapam L1 Meeting Room No. 9 Idashisha Nongrang,IPS Mr. Martin Willcox Mr. Pier Stefano Shri Brijesh Singh  IPS Shri, Abhishek Verma Shri, Ajay Singhal KPMG",
+          "eventID": "IA76",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 17906,
+              "heading": "Idashisha Nongrang,IPS",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17907,
+              "heading": "Mr. Martin Willcox",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17908,
+              "heading": "Mr. Pier Stefano",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17909,
+              "heading": "Shri Brijesh Singh  IPS",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17910,
+              "heading": "Shri, Abhishek Verma",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17911,
+              "heading": "Shri, Ajay Singhal",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 3118,
+              "title": "KPMG",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5417,
+          "documentId": "j2ahywd56wn2xyj7kdnngdoa",
+          "title": "Roundtable on AI for Decarbonisation and Circularity: Building India's Low-Carbon Infrastructure",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "As India advances its climate and circularity ambitions, artificial intelligence is emerging as a critical enabler of low-carbon transformation. This panel will explore how AI can support decarbonisation across supply chains, infrastructure, and waste systems, while addressing challenges related to data, scale, and governance. Bringing together voices from civil society, industry, and the innovation ecosystem, the discussion will focus on practical pathways, policy enablers, and collaborative models to accelerate sustainable, system-level impact.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 10",
+          "createdAt": "2026-02-10T16:15:54.720Z",
+          "updatedAt": "2026-02-11T17:12:09.011Z",
+          "publishedAt": "2026-02-11T17:12:09.135Z",
+          "globalSearch": "Roundtable on AI for Decarbonisation and Circularity: Building India's Low-Carbon Infrastructure As India advances its climate and circularity ambitions, artificial intelligence is emerging as a critical enabler of low-carbon transformation. This panel will explore how AI can support decarbonisation across supply chains, infrastructure, and waste systems, while addressing challenges related to data, scale, and governance. Bringing together voices from civil society, industry, and the innovation ecosystem, the discussion will focus on practical pathways, policy enablers, and collaborative models to accelerate sustainable, system-level impact. Bharat Mandapam L1 Meeting Room No. 10 Bishakha Bhattacharya Debajit Palit Lena Robra Mr. Abhishek Gupta Mr. Anand Sri Ganesh Mr. Vedant Taneja Ms. Sapna Bhawnani Rohan Chhatwal NSRCEL, The Indian Institute of Management Bangalore (IIMB)",
+          "eventID": "692c4eda9dae410baefaea79",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 17182,
+              "heading": "Bishakha Bhattacharya",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17183,
+              "heading": "Debajit Palit",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17184,
+              "heading": "Lena Robra",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17185,
+              "heading": "Mr. Abhishek Gupta",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17186,
+              "heading": "Mr. Anand Sri Ganesh",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17187,
+              "heading": "Mr. Vedant Taneja",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17188,
+              "heading": "Ms. Sapna Bhawnani",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17189,
+              "heading": "Rohan Chhatwal",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2982,
+              "title": "NSRCEL, The Indian Institute of Management Bangalore (IIMB)",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5183,
+          "documentId": "g85x139igesk9xptpfh2nz2t",
+          "title": "Effective AI Assessments, Verification and Assurance: Establishing the Foundations for Responsible Confidence in AI",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "A structured discussion on the challenges and requirements for building an ecosystem for AI system assessments, governance, and risk management. Building on global efforts such as the UN's AI auditing review, recognized AI standards, and emerging AI assurance skills and testing frameworks, the session will outline a roadmap toward reliable reporting on AI system quality, governance, and monitoring. Expert presentations will cover practices, pilot studies, reporting demands, barriers, and pathways to overcome them globally.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "West Wing Room 4 A",
+          "createdAt": "2026-02-10T16:15:49.781Z",
+          "updatedAt": "2026-02-11T17:10:24.475Z",
+          "publishedAt": "2026-02-11T17:10:24.601Z",
+          "globalSearch": "Effective AI Assessments, Verification and Assurance: Establishing the Foundations for Responsible Confidence in AI A structured discussion on the challenges and requirements for building an ecosystem for AI system assessments, governance, and risk management. Building on global efforts such as the UN's AI auditing review, recognized AI standards, and emerging AI assurance skills and testing frameworks, the session will outline a roadmap toward reliable reporting on AI system quality, governance, and monitoring. Expert presentations will cover practices, pilot studies, reporting demands, barriers, and pathways to overcome them globally. Bharat Mandapam West Wing Room 4 A Anne McCormick Dr. Ansgar Koene Dr. Jibu Elias Dr. Philip Howard LEE Wan Sie Narayanan Vaidyanathan Prof. Dr. Balaraman Ravindran EY (Ernst & Young LLP)",
+          "eventID": "6917c46a59272e76d28a3862",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14569,
+              "heading": "Anne McCormick",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14570,
+              "heading": "Dr. Ansgar Koene",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14571,
+              "heading": "Dr. Jibu Elias",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14572,
+              "heading": "Dr. Philip Howard",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14573,
+              "heading": "LEE Wan Sie",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14574,
+              "heading": "Narayanan Vaidyanathan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14575,
+              "heading": "Prof. Dr. Balaraman Ravindran",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2540,
+              "title": "EY (Ernst & Young LLP)",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5457,
+          "documentId": "gfwvkovjnuen7w6rfedhndtm",
+          "title": "From Guardrails to Adaptive Governance in the Global South: Building a Joint Responsible Governance–HTA Framework to Deliver Safe, Trusted, and Scalable AI in Health",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "There is growing recognition that Global South contexts require governance models that go beyond static regulation. These models must retain regulatory rigor while enabling dynamic assessment, contextual evidence generation, and socio-technical considerations that reflect local priorities, capacities, and values.\nCore Proposition: A Two-Track Adaptive Governance Model\nThis panel proposes a pragmatic, two-track governance approach for AI in health",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 16",
+          "createdAt": "2026-02-10T16:16:05.164Z",
+          "updatedAt": "2026-02-11T17:12:25.956Z",
+          "publishedAt": "2026-02-11T17:12:26.096Z",
+          "globalSearch": "From Guardrails to Adaptive Governance in the Global South: Building a Joint Responsible Governance–HTA Framework to Deliver Safe, Trusted, and Scalable AI in Health There is growing recognition that Global South contexts require governance models that go beyond static regulation. These models must retain regulatory rigor while enabling dynamic assessment, contextual evidence generation, and socio-technical considerations that reflect local priorities, capacities, and values.\nCore Proposition: A Two-Track Adaptive Governance Model\nThis panel proposes a pragmatic, two-track governance approach for AI in health Bharat Mandapam L1 Meeting Room No. 16 Dr. Mona Duggal Dr. Monika Kochar Dr. Ricardo Corpuz Dr. Sarang Deo Dr. Shalini Garg Mr. Haitham Ali Ahmed El-Noush Rado Andriantsimiavona HEALTH AI - THE GLOBAL AGENCY FOR RESPONSIBLE AI IN HEALTH",
+          "eventID": "692cc79f9344ef4973958dcc",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 17621,
+              "heading": "Dr. Mona Duggal",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17622,
+              "heading": "Dr. Monika Kochar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17623,
+              "heading": "Dr. Ricardo Corpuz",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17624,
+              "heading": "Dr. Sarang Deo",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17625,
+              "heading": "Dr. Shalini Garg",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17626,
+              "heading": "Mr. Haitham Ali Ahmed El-Noush",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 17627,
+              "heading": "Rado Andriantsimiavona",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 3060,
+              "title": "HEALTH AI - THE GLOBAL AGENCY FOR RESPONSIBLE AI IN HEALTH",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5510,
+          "documentId": "nemgs2ix90m1bkgc1db9poeu",
+          "title": "AI for Bharat",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This session explores how artificial intelligence is being applied to address context-specific challenges. It will highlight emerging applications and technology developments from research institutions and innovation ecosystems. The discussion will focus on the intersection of AI systems and local needs, examining how AI is influencing daily life and economic activity across different sectors.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 15",
+          "createdAt": "2026-02-10T16:16:11.399Z",
+          "updatedAt": "2026-02-11T17:12:44.527Z",
+          "publishedAt": "2026-02-11T17:12:44.619Z",
+          "globalSearch": "AI for Bharat This session explores how artificial intelligence is being applied to address context-specific challenges. It will highlight emerging applications and technology developments from research institutions and innovation ecosystems. The discussion will focus on the intersection of AI systems and local needs, examining how AI is influencing daily life and economic activity across different sectors. Bharat Mandapam L1 Meeting Room No. 15 Mr. Alok Mittal Mr. Ritesh Malik Mr. Will Poole Ms. Anuja Dhawan Ms. Juhi Bhatnagar Ms. Tanuja Ganu Native AI",
+          "eventID": "IA102",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 18102,
+              "heading": "Mr. Alok Mittal",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18103,
+              "heading": "Mr. Ritesh Malik",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18104,
+              "heading": "Mr. Will Poole",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18105,
+              "heading": "Ms. Anuja Dhawan",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18106,
+              "heading": "Ms. Juhi Bhatnagar",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 18107,
+              "heading": "Ms. Tanuja Ganu",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 3150,
+              "title": "Native AI",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5185,
+          "documentId": "cb9n9gepabswwnjpo0dm2gym",
+          "title": "Information Integrity as an Infrastructure for Trust: Empowering Youth and Future Generations",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "The proliferation of generative AI and algorithmic content systems has created a new kind of risk for young users globally: Increasing exposure to manipulative design, hyper-personalized content, and AI-generated information at an overwhelming scale. Age-Appropriate Design (AAD) is a policy and design framework that helps develop safer, more accountable digital environments with the best interests of children in mind.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "West Wing Room 4 B",
+          "createdAt": "2026-02-10T16:15:45.972Z",
+          "updatedAt": "2026-02-11T17:10:25.342Z",
+          "publishedAt": "2026-02-11T17:10:25.463Z",
+          "globalSearch": "Information Integrity as an Infrastructure for Trust: Empowering Youth and Future Generations The proliferation of generative AI and algorithmic content systems has created a new kind of risk for young users globally: Increasing exposure to manipulative design, hyper-personalized content, and AI-generated information at an overwhelming scale. Age-Appropriate Design (AAD) is a policy and design framework that helps develop safer, more accountable digital environments with the best interests of children in mind. Bharat Mandapam West Wing Room 4 B Alpesh Shah Amir Banifatemi Gabriela Ramos Karine Perset Mohammed Misbahuddin Moira Patterson Tanya Perelmuter Yuko Harayama Yuko Harayama IEEE",
+          "eventID": "69180bed59272e76d28a66b0",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14595,
+              "heading": "Alpesh Shah",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14596,
+              "heading": "Amir Banifatemi",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14597,
+              "heading": "Gabriela Ramos",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14598,
+              "heading": "Karine Perset",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14599,
+              "heading": "Mohammed Misbahuddin",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14600,
+              "heading": "Moira Patterson",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14601,
+              "heading": "Tanya Perelmuter",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14602,
+              "heading": "Yuko Harayama",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14603,
+              "heading": "Yuko Harayama",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2544,
+              "title": "IEEE",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        },
+        {
+          "id": 5178,
+          "documentId": "q6rfmbvke3zomg3prqtu8c3d",
+          "title": "Standards and Policies for AI in Farmer-Centric Smart Agrifood Systems",
+          "heading": null,
+          "subHeading": null,
+          "descriptionTitle": null,
+          "description": "This session will examine the standards and policy foundations needed to responsibly scale AI-enabled, farmer-centric agrifood systems. It will focus on sustainability, food and nutrition security, and inclusive income growth by addressing interoperability, trust, and deployment at scale. The discussion will explore priority standards gaps, enabling policy levers, and coordination across governments, research, and innovation actors to move from pilots to secure, widely adopted AI systems across the agrifood value chain.",
+          "date": "2026-02-16",
+          "startTime": "10:30:00.000",
+          "endTime": null,
+          "venue": "Bharat Mandapam",
+          "room": "L1 Meeting Room No. 19",
+          "createdAt": "2026-02-10T16:16:07.865Z",
+          "updatedAt": "2026-02-11T17:10:22.147Z",
+          "publishedAt": "2026-02-11T17:10:22.263Z",
+          "globalSearch": "Standards and Policies for AI in Farmer-Centric Smart Agrifood Systems This session will examine the standards and policy foundations needed to responsibly scale AI-enabled, farmer-centric agrifood systems. It will focus on sustainability, food and nutrition security, and inclusive income growth by addressing interoperability, trust, and deployment at scale. The discussion will explore priority standards gaps, enabling policy levers, and coordination across governments, research, and innovation actors to move from pilots to secure, widely adopted AI systems across the agrifood value chain. Bharat Mandapam L1 Meeting Room No. 19 Frederic Werner Gopal Patra Rabi N. Sahoo Raghu Chaliganti Santanu Chaudhury Volker Klima Fraunhofer HHI",
+          "eventID": "6917686f5d05f4811c988e4a",
+          "metaData": null,
+          "sessionFee": null,
+          "addToCalendar": true,
+          "durationMinutes": null,
+          "bannerImageUrl": null,
+          "notes": null,
+          "capacity": null,
+          "filler": null,
+          "food": null,
+          "cards": [],
+          "Buttons": [],
+          "speakers": [
+            {
+              "id": 14504,
+              "heading": "Frederic Werner",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14505,
+              "heading": "Gopal Patra",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14506,
+              "heading": "Rabi N. Sahoo",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14507,
+              "heading": "Raghu Chaliganti",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14508,
+              "heading": "Santanu Chaudhury",
+              "title": "",
+              "body": ""
+            },
+            {
+              "id": 14509,
+              "heading": "Volker Klima",
+              "title": "",
+              "body": ""
+            }
+          ],
+          "links": [],
+          "knowledgePartners": [
+            {
+              "id": 2530,
+              "title": "Fraunhofer HHI",
+              "heading": null,
+              "subheading": null,
+              "image": null
+            }
+          ],
+          "sessionType": {
+            "id": 6,
+            "documentId": "h7mm5o5bf4o2dgsbc3wrpfyd",
+            "displayLabel": "Main Summit Session",
+            "value": "MAIN_SUMMIT_SESSION",
+            "createdAt": "2026-01-30T07:44:23.600Z",
+            "updatedAt": "2026-01-30T07:44:25.587Z",
+            "publishedAt": "2026-01-30T07:44:25.699Z"
+          }
+        }
+      ],
+      "meta": {
+        "pagination": {
+          "page": 1,
+          "pageSize": 25,
+          "pageCount": 20,
+          "total": 481
+        }
+      }
+    }
+  }
+]

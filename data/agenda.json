@@ -1,0 +1,223 @@
+[
+  {
+    "date": "2026-02-16",
+    "day": 1,
+    "dayLabel": "Monday, February 16",
+    "theme": "Opening & Foundations",
+    "description": "High-impact keynote addresses, policy-focused panel discussions and expert roundtables will set the intellectual foundation of the Summit. The India AI Expo will be inaugurated, bringing together innovators, startups, industry leaders and public institutions under one roof. The day will frame national priorities, spark collaborations, and shape the strategic AI discourse for the days ahead.",
+    "sessionCount": 111,
+    "venues": [
+      "Bharat Mandapam"
+    ],
+    "events": [
+      {
+        "title": "Multilingual AI in Universities - Advancing Inclusion Through UA and Stakeholder Insights",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "From Vision to Action: Scaling Equitable AI Advisory Systems Through AGX AI",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "The Future of Employability in the Age of AI",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Inside India's Frontier Lab and Its Global South Impact",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Harnessing AI to Transform India's Judicial Ecosystem",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "day": 2,
+    "dayLabel": "Tuesday, February 17",
+    "theme": "Sectoral Deep Dives & Knowledge Compendiums",
+    "description": "High-level panel discussions will continue, deepening sectoral dialogues across priority domains. The day will feature the launch of flagship Knowledge Compendiums — including the Casebooks on AI in Health, Energy, Education, Agriculture, Gender Empowerment and Disabilities — alongside a focused Seminar on Applied AI.",
+    "sessionCount": 137,
+    "venues": [
+      "Bharat Mandapam",
+      "Sushma Swaraj Bhavan",
+      "Bharat Mandapam - Expo Area"
+    ],
+    "events": [
+      {
+        "title": "Tata AI Sakhi Immersion Program",
+        "time": "09:00",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "AI for Social Good: Impact that Works",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "AI for Societal Value: Responsible Innovation Across Healthcare and High-Impact Sectors",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "From Research to Reality: Building Safe and Localized Health-AI Solutions for India",
+        "time": "09:30",
+        "venue": "Sushma Swaraj Bhavan",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "AI and India's Economic Growth: Sectoral Impact and the Road Ahead",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "day": 3,
+    "dayLabel": "Wednesday, February 18",
+    "theme": "Research Symposium & Industry Sessions",
+    "description": "The day bridges research and practice. The Research Symposium convenes leading academics, researchers and think tanks to showcase cutting-edge AI research, emerging methodologies and evidence-based policy insights. Dedicated Industry Sessions bring together global technology leaders, startups and sector champions to present scalable solutions, real-world deployments and future-ready innovations.",
+    "sessionCount": 71,
+    "venues": [
+      "Bharat Mandapam",
+      "Sushma Swaraj Bhavan"
+    ],
+    "events": [
+      {
+        "title": "Building Sovereign AI Infrastructure: Empowering Citizens, Transforming Nations",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Building Sovereign AI Infrastructure: Empowering Citizens, Transforming Nations",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Building Safe and Trusted AI Infrastructure for Population-Scale AI",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "AI and Robotics: The Engine of India's New Industrial Age",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Operating Models for AI Quality Across Billion-User Markets",
+        "time": "09:30",
+        "venue": "Sushma Swaraj Bhavan",
+        "type": "Main Summit Session"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "day": 4,
+    "dayLabel": "Thursday, February 19",
+    "theme": "Leaders' Summit — Day 1",
+    "description": "The Formal Opening Ceremony is led by the Hon’ble Prime Minister of India. A high-level CEO Roundtable convenes global industry leaders, investors and policymakers to deliberate on strategic priorities, investment pathways and the future of responsible AI. The Leaders’ Plenary brings together national and international decision-makers to shape collective commitments, strengthen global partnerships and define India’s leadership in the AI decade ahead.",
+    "sessionCount": 29,
+    "venues": [
+      "Bharat Mandapam",
+      "Bharat Mandapam - Expo Area"
+    ],
+    "events": [
+      {
+        "title": "Inaugural Session",
+        "time": "09:40",
+        "venue": "Bharat Mandapam",
+        "type": "Session"
+      },
+      {
+        "title": "Keynote Session: Mukesh Dhirubhai Ambani, Chairman and Managing Director, Reliance",
+        "time": "11:00",
+        "venue": "Bharat Mandapam",
+        "type": "Session"
+      },
+      {
+        "title": "Fireside Chat",
+        "time": "11:14",
+        "venue": "Bharat Mandapam",
+        "type": "Session"
+      },
+      {
+        "title": "Keynote Session: Vishal Sikka, Chief Executive Officer, Vianai",
+        "time": "11:36",
+        "venue": "Bharat Mandapam",
+        "type": "Session"
+      },
+      {
+        "title": "Keynote Session: Bill Gates, Chair, Gates Foundation",
+        "time": "11:50",
+        "venue": "Bharat Mandapam",
+        "type": "Session"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "day": 5,
+    "dayLabel": "Friday, February 20",
+    "theme": "Leaders' Summit — Day 2 & Close",
+    "description": "High-level GPAI Council Meetings convene member countries to review progress, align priorities and strengthen multilateral cooperation on responsible and inclusive AI. The Leaders’ Declaration is adopted, affirming collective commitments and outlining a shared roadmap for global AI governance and collaboration.",
+    "sessionCount": 133,
+    "venues": [
+      "Bharat Mandapam",
+      "Sushma Swaraj Bhavan",
+      "Bharat Mandapam - Expo Area"
+    ],
+    "events": [
+      {
+        "title": "Keynote Session : Sundar Pichai",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Session"
+      },
+      {
+        "title": "AI for Economic Development and Social Good",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Democratizing AI Compute and Digital Data Infrastructures",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "Building AI Readiness: From Compute to Capability",
+        "time": "09:30",
+        "venue": "Bharat Mandapam",
+        "type": "Main Summit Session"
+      },
+      {
+        "title": "India's Path to an AGI-Enabling Ecosystem",
+        "time": "09:30",
+        "venue": "Sushma Swaraj Bhavan",
+        "type": "Main Summit Session"
+      }
+    ]
+  }
+]

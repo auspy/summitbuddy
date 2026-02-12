@@ -1,0 +1,44 @@
+[
+  {
+    "id": "event_ai_for_all",
+    "name": "AI for ALL Global Impact Challenge",
+    "description": "A global challenge inviting participants to build AI solutions addressing real-world problems across sectors like health, education, agriculture, and more.",
+    "dates": "Feb 16-18, 2026",
+    "venue": "Bharat Mandapam"
+  },
+  {
+    "id": "event_ai_by_her",
+    "name": "AI by HER",
+    "description": "A program celebrating and empowering women in AI. Features mentoring, workshops, panels on gender diversity in tech.",
+    "dates": "Feb 16-18, 2026",
+    "venue": "Bharat Mandapam"
+  },
+  {
+    "id": "event_yuvai",
+    "name": "YUVAi Global Youth Challenge",
+    "description": "Youth-focused AI challenge engaging young innovators and students in building AI solutions.",
+    "dates": "Feb 16-18, 2026",
+    "venue": "Bharat Mandapam"
+  },
+  {
+    "id": "event_research_symposium",
+    "name": "Research Symposium",
+    "description": "Full-day academic research event featuring plenary talks, spotlight sessions, and poster showcases. Speakers include Yoshua Bengio, Yann LeCun, Demis Hassabis, Stuart Russell, Sara Hooker, and Neil Lawrence.",
+    "dates": "Feb 18, 2026",
+    "venue": "Bharat Mandapam"
+  },
+  {
+    "id": "event_tinkerpreneur",
+    "name": "India AI Tinkerpreneur (Atal Tinkering Labs)",
+    "description": "An innovation program connecting Atal Tinkering Labs with AI opportunities for young tinkerers and innovators.",
+    "dates": "Feb 16-18, 2026",
+    "venue": "Bharat Mandapam"
+  },
+  {
+    "id": "event_expo",
+    "name": "AI Impact Expo",
+    "description": "The largest AI expo in India featuring 300+ exhibitors, 500+ startups, country pavilions, and demos across 15 halls at Bharat Mandapam.",
+    "dates": "Feb 16-20, 2026 (10am-6pm daily)",
+    "venue": "Bharat Mandapam, Halls 1-15"
+  }
+]
