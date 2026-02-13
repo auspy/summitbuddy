@@ -1,5 +1,7 @@
 import { google } from "@ai-sdk/google";
 import { streamText, convertToModelMessages, type UIMessage } from "ai";
+import { Ratelimit } from "@upstash/ratelimit";
+import { Redis } from "@upstash/redis";
 import { buildCompressedSystemPrompt } from "@/lib/system-prompt";
 import { loadSummitData } from "@/lib/data-loader";
 import type { UserProfile } from "@/lib/types";
@@ -7,63 +9,48 @@ import { logChat, getSummitDay, estimateCostINR } from "@/lib/usage-logger";
 
 export const maxDuration = 60;
 
-// --- In-memory rate limiter (resets on cold start, fine for serverless) ---
-const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+// --- Upstash Redis rate limiter (persists across cold starts) ---
+const redis =
+  process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_REST_TOKEN
+    ? new Redis({
+        url: process.env.UPSTASH_REDIS_REST_URL,
+        token: process.env.UPSTASH_REDIS_REST_TOKEN,
+      })
+    : null;
+
+const ratelimit = redis
+  ? new Ratelimit({
+      redis,
+      limiter: Ratelimit.slidingWindow(10, "60 s"), // 10 requests per 60 seconds
+    })
+  : null;
 
 function getClientIP(req: Request): string {
   return req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
 }
 
-function checkRateLimit(
-  ip: string,
-  limit = 10,
-  windowMs = 60_000
-): { allowed: boolean; retryAfterMs: number } {
-  const now = Date.now();
-  const record = rateLimitMap.get(ip);
-
-  if (!record || now > record.resetAt) {
-    rateLimitMap.set(ip, { count: 1, resetAt: now + windowMs });
-    return { allowed: true, retryAfterMs: 0 };
-  }
-
-  if (record.count >= limit) {
-    return { allowed: false, retryAfterMs: record.resetAt - now };
-  }
-
-  record.count++;
-  return { allowed: true, retryAfterMs: 0 };
-}
-
-// Clean up stale entries every 5 minutes to prevent memory leaks
-setInterval(() => {
-  const now = Date.now();
-  for (const [ip, record] of rateLimitMap) {
-    if (now > record.resetAt) rateLimitMap.delete(ip);
-  }
-}, 5 * 60_000);
-
-// ---
-
 export async function POST(req: Request) {
   const ip = getClientIP(req);
 
-  // Rate limit check
-  const { allowed, retryAfterMs } = checkRateLimit(ip);
-  if (!allowed) {
-    return new Response(
-      JSON.stringify({
-        error:
-          "You're sending messages too quickly. Please wait a moment and try again.",
-      }),
-      {
-        status: 429,
-        headers: {
-          "Content-Type": "application/json",
-          "Retry-After": String(Math.ceil(retryAfterMs / 1000)),
-        },
-      }
-    );
+  // Rate limit check (skipped if Upstash env vars not configured)
+  if (ratelimit) {
+    const { success, reset } = await ratelimit.limit(ip);
+    if (!success) {
+      const retryAfterMs = Math.max(0, reset - Date.now());
+      return new Response(
+        JSON.stringify({
+          error:
+            "You're sending messages too quickly. Please wait a moment and try again.",
+        }),
+        {
+          status: 429,
+          headers: {
+            "Content-Type": "application/json",
+            "Retry-After": String(Math.ceil(retryAfterMs / 1000)),
+          },
+        }
+      );
+    }
   }
 
   try {
