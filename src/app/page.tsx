@@ -64,7 +64,7 @@ export default function Home() {
     [profile]
   );
 
-  const { messages, sendMessage, status } = useChat({ transport });
+  const { messages, sendMessage, status, error } = useChat({ transport });
 
   const isLoading = status === "streaming" || status === "submitted";
 
@@ -194,7 +194,23 @@ export default function Home() {
             </div>
           ))}
 
+          {error && (
+            <div className="flex gap-3">
+              <div className="flex-shrink-0 mt-1">
+                <div className="flex h-7 w-7 items-center justify-center rounded-full bg-red-100 dark:bg-red-900/30 text-red-600 dark:text-red-400">
+                  <X size={16} />
+                </div>
+              </div>
+              <div className="rounded-2xl bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 px-4 py-3 text-sm text-red-700 dark:text-red-300">
+                {error.message?.includes("429")
+                  ? "Too many requests — please wait a moment and try again."
+                  : "Something went wrong. Please try again."}
+              </div>
+            </div>
+          )}
+
           {isLoading &&
+            !error &&
             messages.length > 0 &&
             messages[messages.length - 1]?.role === "user" && (
               <div className="flex gap-3">
